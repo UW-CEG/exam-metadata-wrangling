@@ -1,0 +1,51 @@
+---
+title: "data-wrangling"
+author: "Colleen Craig"
+date: "9/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
+```
+
+
+```{r}
+my_data <- read_csv("All Metadata CHEM 142 MC.csv")
+my_data
+
+my_data2 <- remove_empty(my_data)
+```
+```{r}
+my_data3 <- my_data2 %>% add_row(.before = 1)
+```
+
+```{r}
+my_data3[1,1] <- 1
+my_data3[1,2] <- "C"
+my_data4 <- my_data3 %>% 
+  rename("X1" = "1") %>% 
+  rename("X2" = "C")
+```
+
+```{r}
+for (i in 1:nrow(my_data4)) {
+  if(str_detect(my_data4[[2]][[i]], "[[:alpha:]]{1}")){ 
+     cat("iteration = ", i, "  ", my_data4[[2]][[i]], "\n")}
+}
+```
+
+
+```{r}
+x <- c(-5:5, NA)
+if_else(x < 0, NA_integer_, x)
+
+if_else(x < 0, "negative", "positive", "missing")
+
+if_else(str_detect(my_data4[,2], "[:alpha:]{1}"), 
+        cat("TRUE \n"),
+        cat("FALSE \n"))
+```
+
