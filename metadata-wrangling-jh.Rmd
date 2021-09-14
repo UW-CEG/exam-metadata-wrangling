@@ -1,0 +1,45 @@
+---
+title: 'Metadata Wrangling!'
+author: "Jackson Hughes"
+date: "9/13/2021"
+output: 
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+metadata_0 <- read_csv("All Metadata CHEM 142 MC.csv")
+```
+
+```{r}
+metadata_1 <- remove_empty(metadata_0)
+metadata_2 <- metadata_1 %>% add_row(.before = 1)
+```
+
+```{r}
+metadata_2[1,1] <- 1
+metadata_2[1,2] <- "C"
+metadata <- metadata_2 %>% 
+  rename("X1" = "1") %>% 
+  rename("X2" = "C")
+```
+
+```{r}
+for (i in 1:nrow(metadata)) {
+  if(str_detect(metadata[[2]][[i]], "[[:alpha:]]{1}")){
+    replace(metadata[[3]][[i]], i, "metadata[[2]][[i]]")
+    replace(metadata[[2]][[i]], i, "metadata[[1]][[i]]")}
+}
+```
+
+```{r}
+tibble(metadata)
+```
+
+#### This doesn't work! I think I understand the structure of the loop and the `if` function, but I need some guidance on how to go about shifting the value of the question number and question answer over one cell. My current approach above is just attempting to change the values of the cells themselves to whatever value is to the left of that cell using `replace`. But... what I tried didn't work :/
