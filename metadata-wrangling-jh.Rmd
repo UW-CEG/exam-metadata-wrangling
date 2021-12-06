@@ -11,6 +11,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(janitor)
+library(here)
 ```
 
 ```{r}
@@ -71,3 +72,14 @@ metadata_4 <- pivot_wider(metadata_3, names_from = X2, values_from = X3) %>%
   rename("question" = "X1")
 ## Yayy!
 ```
+
+### Save data frame to file
+
+```{r}
+# Save as rds
+write_rds(metadata_4, here("all_metadata_CHEM142_wide.rds"))
+
+# Save as csv
+write_csv(metadata_4, here("all_metadata_CHEM142_wide.csv"))
+```
+
