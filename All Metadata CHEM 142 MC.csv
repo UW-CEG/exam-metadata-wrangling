@@ -1,3141 +1,3141 @@
-﻿1,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-083,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-2,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-387,,,,,,,,,
-,topic,  Oxidation State; Redox Rxn,,,,,,,,,
-3,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-211,,,,,,,,,
-,topic,  Diagram; Limiting Reactant; Precipitation Rxn; Solubility Rules,,,,,,,,,
-4,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-056,,,,,,,,,
-,topic,  Empirical Formula; Molecular Formula,,,,,,,,,
-5,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-152,,,,,,,,,
-,topic,  Balance Chemical Rxn; Concentration vs. Time; Diagram,,,,,,,,,
-6,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-181,,,,,,,,,
-7,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-331,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-8,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-275,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-9,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-020,,,,,,,,,
-,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn,,,,,,,,,
-10,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-155,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-11,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-537,,,,,,,,,
-,topic,  Percent Yield; Products to Reactants; Stoichiometry,,,,,,,,,
-12,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-289,,,,,,,,,
-,topic,  Lewis Structures; Resonance Structures,,,,,,,,,
-13,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-121,,,,,,,,,
-14,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-128,,,,,,,,,
-,topic,  Precipitation Rxn; Solubility Rules; Total Ionic Equation,,,,,,,,,
-15,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-187,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-16,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-202,,,,,,,,,
-,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-17,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-214,,,,,,,,,
-18,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-171,,,,,,,,,
-,topic,  Initial Slow Step; Reaction Mechanisms,,,,,,,,,
-19,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-265,,,,,,,,,
-20,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-318,,,,,,,,,
-21,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-179,,,,,,,,,
-,topic,  Reaction Mechanisms,,,,,,,,,
-22,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-138,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-23,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-258,,,,,,,,,
-,topic,  Empirical Formula; Molecular Formula,,,,,,,,,
-24,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-366,,,,,,,,,
-,topic,  Empirical Formula; Molecular Formula; Percent Composition,,,,,,,,,
-25,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-027,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-26,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-057,,,,,,,,,
-27,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-256,,,,,,,,,
-,topic,  Mole Fraction; Partial Pressure,,,,,,,,,
-28,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-584,,,,,,,,,
-,topic,  Net Ionic Equation; Precipitation Rxn; Solubility Rules,,,,,,,,,
-29,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-346,,,,,,,,,
-,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-30,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-002,,,,,,,,,
-,topic,  KMT; urms,,,,,,,,,
-31,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-069,,,,,,,,,
-32,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-312,,,,,,,,,
-,topic,  Limiting Reactant; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-33,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-070,,,,,,,,,
-,topic,  Macro to micro; Precipitation Rxn; Solution Stoichiometry,,,,,,,,,
-34,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-310,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-35,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-531,,,,,,,,,
-,topic,  Method of Initial Rates; Reaction Mechanisms,,,,,,,,,
-36,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-302,,,,,,,,,
-,topic,  Limiting Reactant; Redox Rxn; Solution Stoichiometry,,,,,,,,,
-37,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-326,,,,,,,,,
-38,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-628,,,,,,,,,
-,topic,  Differential Rate Law,,,,,,,,,
-39,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-353,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-40,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-482,,,,,,,,,
-,topic,  Rate constant units,,,,,,,,,
-41,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-603,,,,,,,,,
-42,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-575,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-43,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-562,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-44,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-106,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-45,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-034,,,,,,,,,
-,topic,  Empirical Formula; Percent Composition,,,,,,,,,
-46,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-164,,,,,,,,,
-,topic,  electron configuration,,,,,,,,,
-47,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-163,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-48,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-050,,,,,,,,,
-,topic,  First-order; Integrated Rate Law; Pseudo-order,,,,,,,,,
-49,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-337,,,,,,,,,
-50,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-471,,,,,,,,,
-,topic,  Solubility Rules,,,,,,,,,
-51,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-613,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-52,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-072,,,,,,,,,
-53,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19; updated A19,,,,,,,,,
-,ques-code,  ML-356,,,,,,,,,
-,topic,  atomic spectra,,,,,,,,,
-54,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-572,,,,,,,,,
-55,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-279,,,,,,,,,
-,topic,  Electronegativity; Periodic Trends,,,,,,,,,
-56,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-038,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-57,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-485,,,,,,,,,
-58,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-429,,,,,,,,,
-,topic,  Boyle's Law,,,,,,,,,
-59,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-212,,,,,,,,,
-60,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-416,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-61,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-006,,,,,,,,,
-62,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-059,,,,,,,,,
-,topic,  Lewis Structures; Resonance Structures,,,,,,,,,
-63,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-595,,,,,,,,,
-,topic,  Empirical Formula; Percent Composition,,,,,,,,,
-64,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-431,,,,,,,,,
-,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry,,,,,,,,,
-65,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-062,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-66,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-131,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-67,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-186,,,,,,,,,
-,topic,  Gas Density,,,,,,,,,
-68,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-361,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-69,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-042,,,,,,,,,
-,topic,  Average Atomic Mass; Isotopic Abandance,,,,,,,,,
-70,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-462,,,,,,,,,
-,topic,  Intermediate\; Reaction Mechanisms,,,,,,,,,
-71,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-249,,,,,,,,,
-,topic,  Balance Chemical Rxn; Diagram,,,,,,,,,
-72,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-629,,,,,,,,,
-,topic,  Molar Mass; Molarity,,,,,,,,,
-73,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-052,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-74,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-577,,,,,,,,,
-75,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-086,,,,,,,,,
-76,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-001,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-77,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-015,,,,,,,,,
-78,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-367,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-79,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-173,,,,,,,,,
-,topic,  Initial Equil Step; Reaction Mechanisms,,,,,,,,,
-80,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-509,,,,,,,,,
-81,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-049,,,,,,,,,
-,topic,  Combustion Analysis; Empirical Formula,,,,,,,,,
-82,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-011,,,,,,,,,
-,topic,  Inorganic Nomenclature; Transition metal cation,,,,,,,,,
-83,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-316,,,,,,,,,
-,topic,  Integrated Rate Law; Zero-order,,,,,,,,,
-84,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-199,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-85,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-548,,,,,,,,,
-86,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-154,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-87,D,,,,,,,,,,
-,Z-7e-Chapter,  02,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-303,,,,,,,,,
-88,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-389,,,,,,,,,
-,topic,  Bond Angles; VSEPR,,,,,,,,,
-89,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-177,,,,,,,,,
-,topic,  Combustion Analysis; Conceptual; Stoichiometry,,,,,,,,,
-90,B,,,,,,,,,,
-,0 ISSUES,  WHY DOES THIS QUESTION HAVE 3+ BLOOM RATING?,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-325,,,,,,,,,
-,topic,  Products to Reactants; Solution Stoichiometry,,,,,,,,,
-91,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-397,,,,,,,,,
-92,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-087,,,,,,,,,
-,topic,  Avogadro's Law,,,,,,,,,
-93,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-079,,,,,,,,,
-,topic,  Lewis Structures; Molecular Polarity; VSEPR,,,,,,,,,
-94,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-568,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-95,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-281,,,,,,,,,
-,topic,  Percent Composition,,,,,,,,,
-96,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-508,,,,,,,,,
-,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-97,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-134,,,,,,,,,
-98,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-198,,,,,,,,,
-,topic,  Lewis Structures,,,,,,,,,
-99,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-600,,,,,,,,,
-,topic,  Charles's Law,,,,,,,,,
-100,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-036,,,,,,,,,
-101,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-594,,,,,,,,,
-,topic,  Avogadro's Law,,,,,,,,,
-102,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-161,,,,,,,,,
-103,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-294,,,,,,,,,
-,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,,,,,,,,,
-104,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-194,,,,,,,,,
-,topic,  Collision Thy; activation E,,,,,,,,,
-105,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-304,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-106,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-552,,,,,,,,,
-,topic,  Collision Thy; activation E,,,,,,,,,
-107,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-235,,,,,,,,,
-,topic,  Molecular Polarity; VSEPR; Valence-shell,,,,,,,,,
-108,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-097,,,,,,,,,
-,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,,,,,,,,,
-109,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-285,,,,,,,,,
-,topic,  Reaction Mechanisms,,,,,,,,,
-110,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-129,,,,,,,,,
-,topic,  Rxn Classes,,,,,,,,,
-111,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-201,,,,,,,,,
-112,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-080,,,,,,,,,
-,topic,  Diagram; Limiting Reactant; Stoichiometry,,,,,,,,,
-113,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-341,,,,,,,,,
-,topic,  Mole Fraction; Partial Pressure,,,,,,,,,
-114,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-388,,,,,,,,,
-,topic,  Lewis Structures; Valence-shell,,,,,,,,,
-115,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-243,,,,,,,,,
-116,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-327,,,,,,,,,
-117,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-588,,,,,,,,,
-,topic,  Bond Polarity,,,,,,,,,
-118,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-148,,,,,,,,,
-,topic,  Diagram; Integrated Rate Law; Zero-order ??,,,,,,,,,
-119,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-413,,,,,,,,,
-,topic,  Empirical Formula; Molecular Formula; Percent Composition,,,,,,,,,
-120,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-113,,,,,,,,,
-,topic,  Initial Slow Step; Reaction Mechanisms,,,,,,,,,
-121,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-381,,,,,,,,,
-,topic,  VSEPR,,,,,,,,,
-122,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-344,,,,,,,,,
-,topic,  Lewis Structures,,,,,,,,,
-123,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-047,,,,,,,,,
-,topic,  Moles to moles; Stoichiometry,,,,,,,,,
-124,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-230,,,,,,,,,
-,topic,  Collision Thy; activation E,,,,,,,,,
-125,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-216,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-126,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-267,,,,,,,,,
-127,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-068,,,,,,,,,
-,topic,  Lewis Structures; Resonance Structures,,,,,,,,,
-128,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-423,,,,,,,,,
-,topic,  Dilution (backwards); Molarity,,,,,,,,,
-129,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-585,,,,,,,,,
-130,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-053,,,,,,,,,
-131,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-369,,,,,,,,,
-,topic,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry,,,,,,,,,
-132,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-206,,,,,,,,,
-,topic,  Redox Rxn; Reducing/Oxidizing Agent,,,,,,,,,
-133,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-271,,,,,,,,,
-,topic,  First-order; Integrated Rate Law,,,,,,,,,
-134,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-172,,,,,,,,,
-,topic,  Inorganic Nomenclature; acid Nomenclature,,,,,,,,,
-135,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-392,,,,,,,,,
-,topic,  Balance Chemical Rxn,,,,,,,,,
-136,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-110,,,,,,,,,
-,topic,  Initial Equil Step; Reaction Mechanisms,,,,,,,,,
-137,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-165,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-138,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-297,,,,,,,,,
-,topic,  Average Atomic Mass; Isotopic Abandance; atomic Mass,,,,,,,,,
-139,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-614,,,,,,,,,
-,topic,  Initial Equil Step; Reaction Mechanisms,,,,,,,,,
-140,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-563,,,,,,,,,
-,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn,,,,,,,,,
-141,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-332,,,,,,,,,
-142,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-071,,,,,,,,,
-,topic,  Partial Pressure,,,,,,,,,
-143,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-063,,,,,,,,,
-144,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-093,,,,,,,,,
-,topic,  Gas Pressure Measurment; Manometer,,,,,,,,,
-145,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-157,,,,,,,,,
-,topic,  Boyle's Law,,,,,,,,,
-146,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-225,,,,,,,,,
-,topic,  Integrated Rate Law,,,,,,,,,
-147,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-251,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-148,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-534,,,,,,,,,
-,topic,  KMT; urms,,,,,,,,,
-149,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-620,,,,,,,,,
-150,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-581,,,,,,,,,
-,topic,  Balance Chemical Rxn,,,,,,,,,
-151,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-103,,,,,,,,,
-152,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-376,,,,,,,,,
-,topic,  Molar Mass,,,,,,,,,
-153,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-330,,,,,,,,,
-154,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-117,,,,,,,,,
-,topic,  Lewis Structures; Valence-shell,,,,,,,,,
-155,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-492,,,,,,,,,
-,topic,  Initial Slow Step; Rate Expression; Reaction Mechanisms,,,,,,,,,
-156,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-095,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-157,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-541,,,,,,,,,
-,topic,  Moles vs Pressure; PV = nRT,,,,,,,,,
-158,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-190,,,,,,,,,
-159,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-156,,,,,,,,,
-160,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-606,,,,,,,,,
-,topic,  Ionic Bonding; atomic structrue,,,,,,,,,
-161,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-222,,,,,,,,,
-,topic,  Lewis Structures; Valence-shell,,,,,,,,,
-162,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-142,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-163,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-098,,,,,,,,,
-,topic,  First-order; Integrated Rate Law,,,,,,,,,
-164,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-516,,,,,,,,,
-165,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-178,,,,,,,,,
-166,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-393,,,,,,,,,
-167,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-307,,,,,,,,,
-,topic,  Demo Ques; Limiting Reactant,,,,,,,,,
-168,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-301,,,,,,,,,
-,topic,  Bond Length,,,,,,,,,
-169,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-245,,,,,,,,,
-,topic,  Moles to moles; Stoichiometry,,,,,,,,,
-170,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-054,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-171,C,,,,,,,,,,
-,Z-7e-Chapter,  02,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-561,,,,,,,,,
-172,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-378,,,,,,,,,
-,topic,  Pseudo-order,,,,,,,,,
-173,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-141,,,,,,,,,
-,topic,  Empirical Formula; Molecular Formula; Percent Composition,,,,,,,,,
-174,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-630,,,,,,,,,
-,topic,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry,,,,,,,,,
-175,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-266,,,,,,,,,
-176,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-283,,,,,,,,,
-177,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-088,,,,,,,,,
-,topic,  Ionic Bonding; Lattice Energy,,,,,,,,,
-178,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-219,,,,,,,,,
-,topic,  Mass to moles to mass; Stoichiometry,,,,,,,,,
-179,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-347,,,,,,,,,
-,topic,  Bond Polarity,,,,,,,,,
-180,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-125,,,,,,,,,
-181,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-569,,,,,,,,,
-,topic,  Inorganic Nomenclature,,,,,,,,,
-182,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-039,,,,,,,,,
-,topic,  Moles to moles; Stoichiometry,,,,,,,,,
-183,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-586,,,,,,,,,
-184,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-220,,,,,,,,,
-,topic,  Lewis Structures; Molecular Polarity; VSEPR,,,,,,,,,
-185,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-101,,,,,,,,,
-,topic,  Ionic Bonding,,,,,,,,,
-186,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-545,,,,,,,,,
-,topic,  Oxidation State,,,,,,,,,
-187,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-018,,,,,,,,,
-,topic,  Boltzmann Dist; KMT; urms,,,,,,,,,
-188,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-169,,,,,,,,,
-189,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-365,,,,,,,,,
-,topic,  Bond Polarity,,,,,,,,,
-190,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-598,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-191,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-028,,,,,,,,,
-,topic,  Interpret Chemical Formula; Macro to micro,,,,,,,,,
-192,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-308,,,,,,,,,
-193,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-300,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-194,A,,,,,,,,,,
-,0 ISSUES,  NO CHEMICAL EQUATION INCLUDED...WAS THIS THE CASE WHEN THE BLOOMERS CODED THIS QUESTION?,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-254,,,,,,,,,
-,topic,  Moles to moles; Stoichiometry,,,,,,,,,
-195,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-064,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-196,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-555,,,,,,,,,
-,topic,  Lewis Structures,,,,,,,,,
-197,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-182,,,,,,,,,
-,topic,  Inorganic Nomenclature,,,,,,,,,
-198,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-228,,,,,,,,,
-199,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-465,,,,,,,,,
-200,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-067,,,,,,,,,
-,topic,  Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-201,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-215,,,,,,,,,
-202,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-439,,,,,,,,,
-,topic,  Initial Equil Step; Reaction Mechanisms,,,,,,,,,
-203,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-224,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-204,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-153,,,,,,,,,
-,topic,  KMT,,,,,,,,,
-205,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-102,,,,,,,,,
-206,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-622,,,,,,,,,
-,topic,  Half-life; Second-order,,,,,,,,,
-207,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-263,,,,,,,,,
-208,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-115,,,,,,,,,
-209,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-109,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-210,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-299,,,,,,,,,
-,topic,  Limiting Reactant; Moles to moles; Stoichiometry; Unbalanced Rxn,,,,,,,,,
-211,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-185,,,,,,,,,
-,topic,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry,,,,,,,,,
-212,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-602,,,,,,,,,
-,topic,  Lewis Structures; Molecular Polarity; VSEPR,,,,,,,,,
-213,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-520,,,,,,,,,
-,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,,,,,,,,,
-214,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-386,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-215,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-193,,,,,,,,,
-216,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-221,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-217,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-272,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-218,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-287,,,,,,,,,
-,topic,  Gas Density,,,,,,,,,
-219,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-037,,,,,,,,,
-,topic,  Gas Density; PV = nRT; Partial Pressure,,,,,,,,,
-220,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-250,,,,,,,,,
-221,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-055,,,,,,,,,
-,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,,,,,,,,,
-222,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-351,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-223,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-058,,,,,,,,,
-224,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-470,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-225,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-573,,,,,,,,,
-,topic,  First-order; Integrated Rate Law,,,,,,,,,
-226,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-560,,,,,,,,,
-,topic,  Mass to moles to mass; Percent Yield; Stoichiometry,,,,,,,,,
-227,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-329,,,,,,,,,
-,topic,  Collision Thy; activation E,,,,,,,,,
-228,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-051,,,,,,,,,
-229,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-045,,,,,,,,,
-,topic,  Half-life; Integrated Rate Law; Second-order,,,,,,,,,
-230,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-610,,,,,,,,,
-,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,,,,,,,,,
-231,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-203,,,,,,,,,
-,topic,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry,,,,,,,,,
-232,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-145,,,,,,,,,
-,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,,,,,,,,,
-233,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-447,,,,,,,,,
-,topic,  Third-Order,,,,,,,,,
-234,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-317,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-235,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-583,,,,,,,,,
-,topic,  Percent Composition,,,,,,,,,
-236,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-348,,,,,,,,,
-,topic,  Empirical Formula; Macro to micro,,,,,,,,,
-237,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-033,,,,,,,,,
-238,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-074,,,,,,,,,
-,topic,  Avogadro's Law,,,,,,,,,
-239,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-618,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-240,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-350,,,,,,,,,
-,topic,  orbitals,,,,,,,,,
-241,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-374,,,,,,,,,
-,topic,  orbitals,,,,,,,,,
-242,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-340,,,,,,,,,
-,topic,  Net Ionic Equation; acid-Base Rxn,,,,,,,,,
-243,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-390,,,,,,,,,
-,topic,  Oxidation State; Redox Rxn,,,,,,,,,
-244,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-073,,,,,,,,,
-,topic,  Limiting Reactant; Moles to mass; Percent Yield; Stoichiometry,,,,,,,,,
-245,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-090,,,,,,,,,
-,topic,  Ionic Bonding; atomic structrue,,,,,,,,,
-246,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-195,,,,,,,,,
-,topic,  Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-247,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-527,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-248,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-553,,,,,,,,,
-,topic,  Dilution,,,,,,,,,
-249,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-385,,,,,,,,,
-,topic,  Integrated Rate Law; Sec',,,,,,,,,
-250,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-587,,,,,,,,,
-,topic,  Empirical Formula; Percent Composition,,,,,,,,,
-251,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-382,,,,,,,,,
-,topic,  Bond Angles; VSEPR,,,,,,,,,
-252,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-422,,,,,,,,,
-253,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-525,,,,,,,,,
-,topic,  Molecular Polarity; VSEPR,,,,,,,,,
-254,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-105,,,,,,,,,
-255,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-608,,,,,,,,,
-,topic,  Integrated Rate Law; Zero-order,,,,,,,,,
-256,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-048,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-257,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-233,,,,,,,,,
-258,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-360,,,,,,,,,
-,topic,  Balance Chemical Rxn,,,,,,,,,
-259,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-355,,,,,,,,,
-260,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-075,,,,,,,,,
-,topic,  Precipitation Rxn; Solubility Rules,,,,,,,,,
-261,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-065,,,,,,,,,
-,topic,  Limiting Reactant; Moles to moles; Stoichiometry,,,,,,,,,
-262,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-504,,,,,,,,,
-263,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-166,,,,,,,,,
-264,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-126,,,,,,,,,
-265,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-493,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-266,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-008,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-267,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-296,,,,,,,,,
-,topic,  Integrated Rate Law; Zero-order,,,,,,,,,
-268,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-295,,,,,,,,,
-,topic,  Bond Polarity,,,,,,,,,
-269,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-544,,,,,,,,,
-,topic,  Molar Mass,,,,,,,,,
-270,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-334,,,,,,,,,
-,topic,  Limiting Reactant; Moles to moles; Stoichiometry,,,,,,,,,
-271,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-578,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-272,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-136,,,,,,,,,
-273,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-623,,,,,,,,,
-,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-274,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-261,,,,,,,,,
-,topic,  Conceptual; Limiting Reactant; Stoichiometry,,,,,,,,,
-275,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-339,,,,,,,,,
-,topic,  Macro to micro,,,,,,,,,
-276,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-236,,,,,,,,,
-,topic,  First-order; Integrated Rate Law,,,,,,,,,
-277,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-368,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-278,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-322,,,,,,,,,
-,topic,  Net Ionic Equation; Weak Acid; acid-Base Rxn,,,,,,,,,
-279,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-375,,,,,,,,,
-,topic,  Gas Pressure Measurment; Manometer,,,,,,,,,
-280,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-547,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-281,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-209,,,,,,,,,
-,topic,  Collision Thy; activation E,,,,,,,,,
-282,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-259,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-283,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-522,,,,,,,,,
-284,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-406,,,,,,,,,
-,topic,  Molecular Polarity; VSEPR,,,,,,,,,
-285,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-450,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-286,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-231,,,,,,,,,
-,topic,  Balance Chemical Rxn,,,,,,,,,
-287,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-180,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-288,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-626,,,,,,,,,
-289,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-200,,,,,,,,,
-,topic,  Balance Chemical Rxn; Concentration vs. Time; Diagram,,,,,,,,,
-290,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-135,,,,,,,,,
-291,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-498,,,,,,,,,
-,topic,  First-order; Integrated Rate Law; PV = nRT,,,,,,,,,
-292,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-108,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-293,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-253,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-294,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-170,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-295,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-319,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-296,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-218,,,,,,,,,
-,topic,  Diagram; Limiting Reactant; Stoichiometry,,,,,,,,,
-297,C,,,,,,,,,,
-,0 ISSUES,  NEED TO UPDATE FIGURES ,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-530,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-298,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-383,,,,,,,,,
-,topic,  Average Atomic Mass; Isotopic Abandance,,,,,,,,,
-299,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-314,,,,,,,,,
-300,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-558,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-301,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-532,,,,,,,,,
-302,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  4,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-029,,,,,,,,,
-,topic,  Bond Polarity,,,,,,,,,
-303,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-624,,,,,,,,,
-,topic,  Gas Density,,,,,,,,,
-304,E,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-257,,,,,,,,,
-305,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-255,,,,,,,,,
-,topic,  Dilution,,,,,,,,,
-306,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-082,,,,,,,,,
-,topic,  Micro to macro; atomic Mass,,,,,,,,,
-307,B,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-189,,,,,,,,,
-,topic,  Empirical Formula,,,,,,,,,
-308,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-213,,,,,,,,,
-309,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-311,,,,,,,,,
-,topic,  Effusion,,,,,,,,,
-310,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-192,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-311,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-124,,,,,,,,,
-,topic,  PV = nRT,,,,,,,,,
-312,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-549,,,,,,,,,
-,topic,  Mole Fraction; Partial Pressure,,,,,,,,,
-313,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-223,,,,,,,,,
-314,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-139,,,,,,,,,
-,topic,  Limiting Reactant; Precipitation Rxn; Solution Stoichiometry,,,,,,,,,
-315,E,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-576,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-316,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-032,,,,,,,,,
-,topic,  Net Ionic Equation; Precipitation Rxn; Solubility Rules,,,,,,,,,
-317,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-226,,,,,,,,,
-318,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-252,,,,,,,,,
-319,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-582,,,,,,,,,
-,topic,  Avogadro's Law; Gas Stoich,,,,,,,,,
-320,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-118,,,,,,,,,
-,topic,  Molecular Polarity; VSEPR,,,,,,,,,
-321,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-150,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
-322,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-229,,,,,,,,,
-,topic,  Molarity,,,,,,,,,
-323,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-599,,,,,,,,,
-,topic,  Gas Stoich; StP,,,,,,,,,
-324,C,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-175,,,,,,,,,
-,topic,  Average Atomic Mass; Diagram; Isotopic Abandance,,,,,,,,,
-325,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-338,,,,,,,,,
-,topic,  KMT; urms,,,,,,,,,
-326,C,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-270,,,,,,,,,
-,topic,  Oxidation State,,,,,,,,,
-327,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-430,,,,,,,,,
-328,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-286,,,,,,,,,
-,topic,"  KMT; urms, mass dependence",,,,,,,,,
-329,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-196,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-330,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-234,,,,,,,,,
-331,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-321,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-332,(No Answer Provided),,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-099,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-333,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-591,,,,,,,,,
-,topic,  Charles's Law,,,,,,,,,
-334,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-081,,,,,,,,,
-,topic,  Interpret Chemical Formula; Molarity,,,,,,,,,
-335,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-247,,,,,,,,,
-,topic,  Dilution,,,,,,,,,
-336,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16; A17; A18; A19,,,,,,,,,
-,ques-code,  ML-022,,,,,,,,,
-,topic,  Integrated Rate Law; Second-order,,,,,,,,,
-337,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-403,,,,,,,,,
-,topic,  Collision Thy; Reaction Mechanisms,,,,,,,,,
-338,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-160,,,,,,,,,
-,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,,,,,,,,,
-339,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-627,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-340,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-579,,,,,,,,,
-,topic,  Charles's Law,,,,,,,,,
-341,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-024,,,,,,,,,
-342,A,,,,,,,,,,
-,0 ISSUES,  There doesn't seem to be enough information provided,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-490,,,,,,,,,
-,topic,  Partial Pressure,,,,,,,,,
-343,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-364,,,,,,,,,
-,topic,  Gas Stoich; Partial Pressure,,,,,,,,,
-344,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-448,,,,,,,,,
-345,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-357,,,,,,,,,
-,topic,  Macro to micro; Molarity,,,,,,,,,
-346,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-412,,,,,,,,,
-,topic,  Effusion,,,,,,,,,
-347,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-188,,,,,,,,,
-,topic,  Collision Thy; Reaction Mechanisms,,,,,,,,,
-348,E,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-616,,,,,,,,,
-,topic,  Boyle's Law,,,,,,,,,
-349,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-298,,,,,,,,,
-350,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-597,,,,,,,,,
-,topic,  atomic structrue,,,,,,,,,
-351,D,,,,,,,,,,
-,0 ISSUES,  WHY DOES THIS HAVE 5 FOR BLOOM RATING?,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-147,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-352,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-076,,,,,,,,,
-353,D,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-041,,,,,,,,,
-,topic,  Differential Rate Law,,,,,,,,,
-354,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-168,,,,,,,,,
-,topic,  Combustion Analysis; Empirical Formula,,,,,,,,,
-355,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-554,,,,,,,,,
-356,C,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-452,,,,,,,,,
-,topic,  Bond Energy; Bond Length; Bonding; Diagram,,,,,,,,,
-357,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-309,,,,,,,,,
-358,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-084,,,,,,,,,
-359,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-596,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-360,D,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-379,,,,,,,,,
-,topic,  Moles to moles; Percent Yield; Stoichiometry,,,,,,,,,
-361,E,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-274,,,,,,,,,
-,topic,  Inorganic Nomenclature; Percent Composition,,,,,,,,,
-362,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-013,,,,,,,,,
-,topic,  Gas Stoich; Mole Fraction,,,,,,,,,
-363,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-174,,,,,,,,,
-,topic,  Lewis Structures,,,,,,,,,
-364,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-191,,,,,,,,,
-365,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-459,,,,,,,,,
-366,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-402,,,,,,,,,
-,topic,  Solubility Rules,,,,,,,,,
-367,A,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-197,,,,,,,,,
-,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn,,,,,,,,,
-368,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  All,,,,,,,,,
-,ques-code,  ML-241,,,,,,,,,
-,topic,  First-order; Half-life,,,,,,,,,
-369,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-262,,,,,,,,,
-370,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-091,,,,,,,,,
-,topic,  Precipitation Rxn; Solubility Rules,,,,,,,,,
-371,E,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-207,,,,,,,,,
-,topic,  Interpret Chemical Formula; Molarity,,,,,,,,,
-372,D,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-559,,,,,,,,,
-,topic,  Gas Density,,,,,,,,,
-373,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-328,,,,,,,,,
-,topic,  Bond Energy; Bond Length; Bonding; Diagram,,,,,,,,,
-374,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-030,,,,,,,,,
-,topic,  Dilution (backwards); Molarity,,,,,,,,,
-375,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-505,,,,,,,,,
-376,B,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-096,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-377,A,,,,,,,,,,
-,Z-7e-Chapter,  3,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-373,,,,,,,,,
-,topic,  Limiting Reactant; Moles to mass; Stoichiometry,,,,,,,,,
-378,B,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-242,,,,,,,,,
-,topic,  Mole Fraction; Partial Pressure,,,,,,,,,
-379,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-025,,,,,,,,,
-380,A,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-306,,,,,,,,,
-381,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-391,,,,,,,,,
-,topic,  First-order; Half-life,,,,,,,,,
-382,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-009,,,,,,,,,
-,topic,  Catalysts,,,,,,,,,
-383,C,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-031,,,,,,,,,
-,topic,  Gas Density; KMT,,,,,,,,,
-384,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3+,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-324,,,,,,,,,
-,topic,  Gas Stoich,,,,,,,,,
-385,D,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W1,,,,,,,,,
-,ques-code,  ML-526,,,,,,,,,
-386,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W19,,,,,,,,,
-,ques-code,  ML-363,,,,,,,,,
-,topic,  Reaction Mechanisms,,,,,,,,,
-387,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-246,,,,,,,,,
-,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,,,,,,,,,
-388,E,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-551,,,,,,,,,
-,topic,  First-order; Half-life; Integrated Rate Law,,,,,,,,,
-389,B,,,,,,,,,,
-,0 ISSUES,  THIS QUESTION HAD A FORMATTING PROBLEM THAT MADE NO3- APPEAR AS NO- IN THE LIST THE THAT THE BLOOMERS HAD. IS THE BLOOM RATING STILL VALID?,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-273,,,,,,,,,
-,topic,  Lewis Structures; Resonance Structures,,,,,,,,,
-390,D,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-543,,,,,,,,,
-,topic,  Formal Charge; Lewis Structures,,,,,,,,,
-391,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  3,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst4,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-019,,,,,,,,,
-,topic,  Integrated Rate Law; Zero-order,,,,,,,,,
-392,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-210,,,,,,,,,
-,topic,  Lewis Structures; VSEPR; Valence-shell,,,,,,,,,
-393,A,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-120,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-394,A,,,,,,,,,,
-,Z-7e-Chapter,  13,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-133,,,,,,,,,
-,topic,  Lewis Structures; VSEPR,,,,,,,,,
-395,D,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-601,,,,,,,,,
-,topic,  Balance Chemical Rxn; Limiting Reactant; Redox Rxn; Solution Stoichiometry,,,,,,,,,
-396,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-539,,,,,,,,,
-397,A,,,,,,,,,,
-,Z-7e-Chapter,  5,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-292,,,,,,,,,
-,topic,  PV = nRT; STP,,,,,,,,,
-398,C,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-398,,,,,,,,,
-399,B,,,,,,,,,,
-,Z-7e-Chapter,  4,,,,,,,,,
-,activate-exam,  2,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A17,,,,,,,,,
-,ques-code,  ML-567,,,,,,,,,
-,topic,  Balance Chemical Rxn; Redox Rxn,,,,,,,,,
-400,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-401,,,,,,,,,
-,topic,  Method of Initial Rates,,,,,,,,,
-401,B,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  5,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-021,,,,,,,,,
-,topic,  Reaction Mechanisms; Steady-State Approx,,,,,,,,,
-402,C,,,,,,,,,,
-,Z-7e-Chapter,  02,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  1,,,,,,,,,
-,instructor,  inst3,,,,,,,,,
-,qtr,  W18,,,,,,,,,
-,ques-code,  ML-349,,,,,,,,,
-403,B,,,,,,,,,,
-,Z-7e-Chapter,  12,,,,,,,,,
-,activate-exam,  1,,,,,,,,,
-,bloom-rating,  2,,,,,,,,,
-,instructor,  inst1,,,,,,,,,
-,qtr,  A16,,,,,,,,,
-,ques-code,  ML-291,,,,,,,,,
-404,C,,,,,,,,,,
-,Z-7e-Chapter,  15,,,,,,,,,
-,activate-exam,  Final,,,,,,,,,
-,bloom-rating,  3,,,,,,,,,
-,instructor,  inst2,,,,,,,,,
-,qtr,  A18,,,,,,,,,
-,ques-code,  ML-130,,,,,,,,,
-,topic,  Rate Expression,,,,,,,,,
+﻿1,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-083
+,topic,  Formal Charge; Lewis Structures
+2,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-387
+,topic,  Oxidation State; Redox Rxn
+3,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-211
+,topic,  Diagram; Limiting Reactant; Precipitation Rxn; Solubility Rules
+4,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-056
+,topic,  Empirical Formula; Molecular Formula
+5,B,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-152
+,topic,  Balance Chemical Rxn; Concentration vs. Time; Diagram
+6,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-181
+7,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-331
+,topic,  Method of Initial Rates
+8,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-275
+,topic,  Macro to micro
+9,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-020
+,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn
+10,E,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-155
+,topic,  Rate Expression
+11,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-537
+,topic,  Percent Yield; Products to Reactants; Stoichiometry
+12,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-289
+,topic,  Lewis Structures; Resonance Structures
+13,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-121
+14,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-128
+,topic,  Precipitation Rxn; Solubility Rules; Total Ionic Equation
+15,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-187
+,topic,  Gas Stoich
+16,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-202
+,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn
+17,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-214
+18,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  4
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-171
+,topic,  Initial Slow Step; Reaction Mechanisms
+19,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-265
+20,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-318
+21,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-179
+,topic,  Reaction Mechanisms
+22,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-138
+,topic,  Macro to micro
+23,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-258
+,topic,  Empirical Formula; Molecular Formula
+24,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-366
+,topic,  Empirical Formula; Molecular Formula; Percent Composition
+25,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-027
+,topic,  Lewis Structures; VSEPR
+26,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-057
+27,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-256
+,topic,  Mole Fraction; Partial Pressure
+28,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-584
+,topic,  Net Ionic Equation; Precipitation Rxn; Solubility Rules
+29,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-346
+,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn
+30,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-002
+,topic,  KMT; urms
+31,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-069
+32,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-312
+,topic,  Limiting Reactant; Solution Stoichiometry; acid-Base Rxn
+33,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-070
+,topic,  Macro to micro; Precipitation Rxn; Solution Stoichiometry
+34,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-310
+,topic,  Lewis Structures; VSEPR
+35,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-531
+,topic,  Method of Initial Rates; Reaction Mechanisms
+36,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-302
+,topic,  Limiting Reactant; Redox Rxn; Solution Stoichiometry
+37,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-326
+38,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-628
+,topic,  Differential Rate Law
+39,A,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-353
+,topic,  PV = nRT
+40,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-482
+,topic,  Rate constant units
+41,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-603
+42,B,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-575
+,topic,  Gas Stoich; Partial Pressure
+43,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-562
+,topic,  Lewis Structures; VSEPR
+44,C,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-106
+,topic,  Rate Expression
+45,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-034
+,topic,  Empirical Formula; Percent Composition
+46,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-164
+,topic,  electron configuration
+47,C,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-163
+,topic,  Integrated Rate Law; Second-order
+48,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-050
+,topic,  First-order; Integrated Rate Law; Pseudo-order
+49,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-337
+50,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-471
+,topic,  Solubility Rules
+51,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-613
+,topic,  Rate Expression
+52,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-072
+53,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19; updated A19
+,ques-code,  ML-356
+,topic,  atomic spectra
+54,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-572
+55,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-279
+,topic,  Electronegativity; Periodic Trends
+56,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-038
+,topic,  Formal Charge; Lewis Structures
+57,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-485
+58,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-429
+,topic,  Boyle's Law
+59,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-212
+60,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-416
+,topic,  Rate Expression
+61,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-006
+62,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-059
+,topic,  Lewis Structures; Resonance Structures
+63,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-595
+,topic,  Empirical Formula; Percent Composition
+64,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-431
+,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry
+65,A,
+,Z-7e-Chapter,  5
+,activate-exam,  3
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-062
+,topic,  PV = nRT
+66,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-131
+,topic,  Formal Charge; Lewis Structures
+67,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-186
+,topic,  Gas Density
+68,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-361
+,topic,  Balance Chemical Rxn; Redox Rxn
+69,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-042
+,topic,  Average Atomic Mass; Isotopic Abandance
+70,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-462
+,topic,  Intermediate\; Reaction Mechanisms
+71,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-249
+,topic,  Balance Chemical Rxn; Diagram
+72,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-629
+,topic,  Molar Mass; Molarity
+73,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-052
+,topic,  Balance Chemical Rxn; Redox Rxn
+74,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-577
+75,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-086
+76,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-001
+,topic,  Lewis Structures; VSEPR
+77,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-015
+78,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-367
+,topic,  Formal Charge; Lewis Structures
+79,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  4
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-173
+,topic,  Initial Equil Step; Reaction Mechanisms
+80,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-509
+81,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-049
+,topic,  Combustion Analysis; Empirical Formula
+82,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-011
+,topic,  Inorganic Nomenclature; Transition metal cation
+83,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  4
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-316
+,topic,  Integrated Rate Law; Zero-order
+84,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-199
+,topic,  Balance Chemical Rxn; Redox Rxn
+85,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-548
+86,E,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-154
+,topic,  PV = nRT
+87,D,
+,Z-7e-Chapter,  02
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-303
+88,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-389
+,topic,  Bond Angles; VSEPR
+89,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-177
+,topic,  Combustion Analysis; Conceptual; Stoichiometry
+90,B,
+,0 ISSUES,  WHY DOES THIS QUESTION HAVE 3+ BLOOM RATING?
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-325
+,topic,  Products to Reactants; Solution Stoichiometry
+91,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-397
+92,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-087
+,topic,  Avogadro's Law
+93,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-079
+,topic,  Lewis Structures; Molecular Polarity; VSEPR
+94,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-568
+,topic,  Formal Charge; Lewis Structures
+95,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-281
+,topic,  Percent Composition
+96,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-508
+,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn
+97,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-134
+98,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-198
+,topic,  Lewis Structures
+99,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-600
+,topic,  Charles's Law
+100,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-036
+101,E,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-594
+,topic,  Avogadro's Law
+102,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-161
+103,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-294
+,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry
+104,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-194
+,topic,  Collision Thy; activation E
+105,C,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-304
+,topic,  Integrated Rate Law; Second-order
+106,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-552
+,topic,  Collision Thy; activation E
+107,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-235
+,topic,  Molecular Polarity; VSEPR; Valence-shell
+108,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-097
+,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry
+109,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-285
+,topic,  Reaction Mechanisms
+110,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-129
+,topic,  Rxn Classes
+111,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-201
+112,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-080
+,topic,  Diagram; Limiting Reactant; Stoichiometry
+113,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-341
+,topic,  Mole Fraction; Partial Pressure
+114,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-388
+,topic,  Lewis Structures; Valence-shell
+115,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-243
+116,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-327
+117,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-588
+,topic,  Bond Polarity
+118,D,
+,Z-7e-Chapter,  15
+,activate-exam,  3
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-148
+,topic,  Diagram; Integrated Rate Law; Zero-order ??
+119,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-413
+,topic,  Empirical Formula; Molecular Formula; Percent Composition
+120,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-113
+,topic,  Initial Slow Step; Reaction Mechanisms
+121,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-381
+,topic,  VSEPR
+122,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-344
+,topic,  Lewis Structures
+123,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-047
+,topic,  Moles to moles; Stoichiometry
+124,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-230
+,topic,  Collision Thy; activation E
+125,B,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  5
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-216
+,topic,  Method of Initial Rates
+126,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-267
+127,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-068
+,topic,  Lewis Structures; Resonance Structures
+128,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-423
+,topic,  Dilution (backwards); Molarity
+129,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-585
+130,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-053
+131,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-369
+,topic,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry
+132,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-206
+,topic,  Redox Rxn; Reducing/Oxidizing Agent
+133,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-271
+,topic,  First-order; Integrated Rate Law
+134,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-172
+,topic,  Inorganic Nomenclature; acid Nomenclature
+135,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-392
+,topic,  Balance Chemical Rxn
+136,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-110
+,topic,  Initial Equil Step; Reaction Mechanisms
+137,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-165
+,topic,  Macro to micro
+138,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-297
+,topic,  Average Atomic Mass; Isotopic Abandance; atomic Mass
+139,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-614
+,topic,  Initial Equil Step; Reaction Mechanisms
+140,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-563
+,topic,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn
+141,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-332
+142,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-071
+,topic,  Partial Pressure
+143,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-063
+144,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-093
+,topic,  Gas Pressure Measurment; Manometer
+145,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-157
+,topic,  Boyle's Law
+146,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-225
+,topic,  Integrated Rate Law
+147,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-251
+,topic,  Macro to micro
+148,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-534
+,topic,  KMT; urms
+149,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-620
+150,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-581
+,topic,  Balance Chemical Rxn
+151,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-103
+152,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-376
+,topic,  Molar Mass
+153,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-330
+154,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-117
+,topic,  Lewis Structures; Valence-shell
+155,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-492
+,topic,  Initial Slow Step; Rate Expression; Reaction Mechanisms
+156,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-095
+,topic,  PV = nRT
+157,E,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-541
+,topic,  Moles vs Pressure; PV = nRT
+158,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-190
+159,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-156
+160,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-606
+,topic,  Ionic Bonding; atomic structrue
+161,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-222
+,topic,  Lewis Structures; Valence-shell
+162,A,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-142
+,topic,  Gas Stoich; Partial Pressure
+163,D,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-098
+,topic,  First-order; Integrated Rate Law
+164,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-516
+165,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-178
+166,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-393
+167,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-307
+,topic,  Demo Ques; Limiting Reactant
+168,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-301
+,topic,  Bond Length
+169,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-245
+,topic,  Moles to moles; Stoichiometry
+170,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-054
+,topic,  Balance Chemical Rxn; Redox Rxn
+171,C,
+,Z-7e-Chapter,  02
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-561
+172,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-378
+,topic,  Pseudo-order
+173,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-141
+,topic,  Empirical Formula; Molecular Formula; Percent Composition
+174,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-630
+,topic,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry
+175,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-266
+176,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-283
+177,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-088
+,topic,  Ionic Bonding; Lattice Energy
+178,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-219
+,topic,  Mass to moles to mass; Stoichiometry
+179,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  4
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-347
+,topic,  Bond Polarity
+180,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-125
+181,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-569
+,topic,  Inorganic Nomenclature
+182,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-039
+,topic,  Moles to moles; Stoichiometry
+183,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-586
+184,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-220
+,topic,  Lewis Structures; Molecular Polarity; VSEPR
+185,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-101
+,topic,  Ionic Bonding
+186,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-545
+,topic,  Oxidation State
+187,A,
+,Z-7e-Chapter,  5
+,activate-exam,  3
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-018
+,topic,  Boltzmann Dist; KMT; urms
+188,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-169
+189,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  4
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-365
+,topic,  Bond Polarity
+190,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  4
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-598
+,topic,  Integrated Rate Law; Second-order
+191,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-028
+,topic,  Interpret Chemical Formula; Macro to micro
+192,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-308
+193,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-300
+,topic,  Formal Charge; Lewis Structures
+194,A,
+,0 ISSUES,  NO CHEMICAL EQUATION INCLUDED...WAS THIS THE CASE WHEN THE BLOOMERS CODED THIS QUESTION?
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-254
+,topic,  Moles to moles; Stoichiometry
+195,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-064
+,topic,  Method of Initial Rates
+196,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-555
+,topic,  Lewis Structures
+197,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-182
+,topic,  Inorganic Nomenclature
+198,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-228
+199,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-465
+200,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-067
+,topic,  Solution Stoichiometry; acid-Base Rxn
+201,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-215
+202,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-439
+,topic,  Initial Equil Step; Reaction Mechanisms
+203,E,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-224
+,topic,  Rate Expression
+204,B,
+,Z-7e-Chapter,  5
+,activate-exam,  3
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-153
+,topic,  KMT
+205,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-102
+206,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-622
+,topic,  Half-life; Second-order
+207,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-263
+208,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-115
+209,B,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-109
+,topic,  Gas Stoich
+210,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-299
+,topic,  Limiting Reactant; Moles to moles; Stoichiometry; Unbalanced Rxn
+211,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-185
+,topic,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry
+212,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-602
+,topic,  Lewis Structures; Molecular Polarity; VSEPR
+213,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-520
+,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity
+214,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-386
+,topic,  Method of Initial Rates
+215,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-193
+216,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-221
+,topic,  Gas Stoich; Partial Pressure
+217,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-272
+,topic,  Formal Charge; Lewis Structures
+218,B,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-287
+,topic,  Gas Density
+219,D,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-037
+,topic,  Gas Density; PV = nRT; Partial Pressure
+220,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-250
+221,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-055
+,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity
+222,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-351
+,topic,  Formal Charge; Lewis Structures
+223,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-058
+224,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-470
+,topic,  Rate Expression
+225,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-573
+,topic,  First-order; Integrated Rate Law
+226,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-560
+,topic,  Mass to moles to mass; Percent Yield; Stoichiometry
+227,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-329
+,topic,  Collision Thy; activation E
+228,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-051
+229,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  4
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-045
+,topic,  Half-life; Integrated Rate Law; Second-order
+230,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-610
+,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity
+231,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-203
+,topic,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry
+232,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-145
+,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity
+233,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-447
+,topic,  Third-Order
+234,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-317
+,topic,  Method of Initial Rates
+235,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-583
+,topic,  Percent Composition
+236,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-348
+,topic,  Empirical Formula; Macro to micro
+237,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-033
+238,C,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-074
+,topic,  Avogadro's Law
+239,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-618
+,topic,  Method of Initial Rates
+240,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-350
+,topic,  orbitals
+241,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-374
+,topic,  orbitals
+242,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-340
+,topic,  Net Ionic Equation; acid-Base Rxn
+243,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-390
+,topic,  Oxidation State; Redox Rxn
+244,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-073
+,topic,  Limiting Reactant; Moles to mass; Percent Yield; Stoichiometry
+245,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-090
+,topic,  Ionic Bonding; atomic structrue
+246,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-195
+,topic,  Solution Stoichiometry; acid-Base Rxn
+247,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-527
+,topic,  Macro to micro
+248,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-553
+,topic,  Dilution
+249,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-385
+,topic,  Integrated Rate Law; Sec'
+250,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-587
+,topic,  Empirical Formula; Percent Composition
+251,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-382
+,topic,  Bond Angles; VSEPR
+252,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-422
+253,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-525
+,topic,  Molecular Polarity; VSEPR
+254,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-105
+255,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-608
+,topic,  Integrated Rate Law; Zero-order
+256,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-048
+,topic,  Balance Chemical Rxn; Redox Rxn
+257,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-233
+258,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-360
+,topic,  Balance Chemical Rxn
+259,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-355
+260,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-075
+,topic,  Precipitation Rxn; Solubility Rules
+261,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-065
+,topic,  Limiting Reactant; Moles to moles; Stoichiometry
+262,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-504
+263,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-166
+264,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-126
+265,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-493
+,topic,  Balance Chemical Rxn; Redox Rxn
+266,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-008
+,topic,  Gas Stoich
+267,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-296
+,topic,  Integrated Rate Law; Zero-order
+268,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-295
+,topic,  Bond Polarity
+269,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-544
+,topic,  Molar Mass
+270,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-334
+,topic,  Limiting Reactant; Moles to moles; Stoichiometry
+271,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-578
+,topic,  Macro to micro
+272,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-136
+273,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-623
+,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn
+274,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-261
+,topic,  Conceptual; Limiting Reactant; Stoichiometry
+275,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-339
+,topic,  Macro to micro
+276,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-236
+,topic,  First-order; Integrated Rate Law
+277,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-368
+,topic,  Balance Chemical Rxn; Redox Rxn
+278,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-322
+,topic,  Net Ionic Equation; Weak Acid; acid-Base Rxn
+279,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-375
+,topic,  Gas Pressure Measurment; Manometer
+280,D,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-547
+,topic,  PV = nRT
+281,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-209
+,topic,  Collision Thy; activation E
+282,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-259
+,topic,  Balance Chemical Rxn; Redox Rxn
+283,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-522
+284,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-406
+,topic,  Molecular Polarity; VSEPR
+285,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-450
+,topic,  PV = nRT
+286,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-231
+,topic,  Balance Chemical Rxn
+287,D,
+,Z-7e-Chapter,  5
+,activate-exam,  3
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-180
+,topic,  Gas Stoich
+288,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-626
+289,D,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-200
+,topic,  Balance Chemical Rxn; Concentration vs. Time; Diagram
+290,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-135
+291,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-498
+,topic,  First-order; Integrated Rate Law; PV = nRT
+292,D,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-108
+,topic,  Gas Stoich; Partial Pressure
+293,A,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-253
+,topic,  Gas Stoich
+294,E,
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  5
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-170
+,topic,  Method of Initial Rates
+295,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-319
+,topic,  Balance Chemical Rxn; Redox Rxn
+296,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-218
+,topic,  Diagram; Limiting Reactant; Stoichiometry
+297,C,
+,0 ISSUES,  NEED TO UPDATE FIGURES 
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-530
+,topic,  Formal Charge; Lewis Structures
+298,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-383
+,topic,  Average Atomic Mass; Isotopic Abandance
+299,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-314
+300,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-558
+,topic,  Method of Initial Rates
+301,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-532
+302,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  4
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-029
+,topic,  Bond Polarity
+303,D,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-624
+,topic,  Gas Density
+304,E,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-257
+305,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-255
+,topic,  Dilution
+306,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-082
+,topic,  Micro to macro; atomic Mass
+307,B,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-189
+,topic,  Empirical Formula
+308,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-213
+309,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-311
+,topic,  Effusion
+310,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-192
+,topic,  Integrated Rate Law; Second-order
+311,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-124
+,topic,  PV = nRT
+312,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-549
+,topic,  Mole Fraction; Partial Pressure
+313,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-223
+314,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-139
+,topic,  Limiting Reactant; Precipitation Rxn; Solution Stoichiometry
+315,E,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-576
+,topic,  Lewis Structures; VSEPR
+316,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-032
+,topic,  Net Ionic Equation; Precipitation Rxn; Solubility Rules
+317,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-226
+318,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-252
+319,C,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-582
+,topic,  Avogadro's Law; Gas Stoich
+320,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-118
+,topic,  Molecular Polarity; VSEPR
+321,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-150
+,topic,  Rate Expression
+322,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-229
+,topic,  Molarity
+323,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-599
+,topic,  Gas Stoich; StP
+324,C,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-175
+,topic,  Average Atomic Mass; Diagram; Isotopic Abandance
+325,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-338
+,topic,  KMT; urms
+326,C,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-270
+,topic,  Oxidation State
+327,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-430
+328,B,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-286
+,topic,"  KMT; urms, mass dependence"
+329,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-196
+,topic,  Integrated Rate Law; Second-order
+330,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-234
+331,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-321
+,topic,  Formal Charge; Lewis Structures
+332,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-099
+,topic,  Method of Initial Rates
+333,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-591
+,topic,  Charles's Law
+334,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-081
+,topic,  Interpret Chemical Formula; Molarity
+335,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-247
+,topic,  Dilution
+336,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16; A17; A18; A19
+,ques-code,  ML-022
+,topic,  Integrated Rate Law; Second-order
+337,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-403
+,topic,  Collision Thy; Reaction Mechanisms
+338,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-160
+,topic,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry
+339,E,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-627
+,topic,  Gas Stoich; Partial Pressure
+340,D,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-579
+,topic,  Charles's Law
+341,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-024
+342,A,
+,0 ISSUES,  There doesn't seem to be enough information provided
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-490
+,topic,  Partial Pressure
+343,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-364
+,topic,  Gas Stoich; Partial Pressure
+344,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-448
+345,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-357
+,topic,  Macro to micro; Molarity
+346,D,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-412
+,topic,  Effusion
+347,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-188
+,topic,  Collision Thy; Reaction Mechanisms
+348,E,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-616
+,topic,  Boyle's Law
+349,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-298
+350,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-597
+,topic,  atomic structrue
+351,D,
+,0 ISSUES,  WHY DOES THIS HAVE 5 FOR BLOOM RATING?
+,Z-7e-Chapter,  15
+,activate-exam,  2
+,bloom-rating,  5
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-147
+,topic,  Method of Initial Rates
+352,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-076
+353,D,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-041
+,topic,  Differential Rate Law
+354,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-168
+,topic,  Combustion Analysis; Empirical Formula
+355,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-554
+356,C,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-452
+,topic,  Bond Energy; Bond Length; Bonding; Diagram
+357,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3+
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-309
+358,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-084
+359,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-596
+,topic,  Method of Initial Rates
+360,D,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-379
+,topic,  Moles to moles; Percent Yield; Stoichiometry
+361,E,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-274
+,topic,  Inorganic Nomenclature; Percent Composition
+362,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-013
+,topic,  Gas Stoich; Mole Fraction
+363,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-174
+,topic,  Lewis Structures
+364,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-191
+365,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-459
+366,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-402
+,topic,  Solubility Rules
+367,A,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-197
+,topic,  Neutralization; Solution Stoichiometry; acid-Base Rxn
+368,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  All
+,ques-code,  ML-241
+,topic,  First-order; Half-life
+369,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-262
+370,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-091
+,topic,  Precipitation Rxn; Solubility Rules
+371,E,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A17
+,ques-code,  ML-207
+,topic,  Interpret Chemical Formula; Molarity
+372,D,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-559
+,topic,  Gas Density
+373,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-328
+,topic,  Bond Energy; Bond Length; Bonding; Diagram
+374,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-030
+,topic,  Dilution (backwards); Molarity
+375,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-505
+376,B,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A18
+,ques-code,  ML-096
+,topic,  Formal Charge; Lewis Structures
+377,A,
+,Z-7e-Chapter,  3
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-373
+,topic,  Limiting Reactant; Moles to mass; Stoichiometry
+378,B,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-242
+,topic,  Mole Fraction; Partial Pressure
+379,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-025
+380,A,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-306
+381,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-391
+,topic,  First-order; Half-life
+382,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  1
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-009
+,topic,  Catalysts
+383,C,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-031
+,topic,  Gas Density; KMT
+384,A,
+,Z-7e-Chapter,  5
+,activate-exam,  Final
+,bloom-rating,  3+
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-324
+,topic,  Gas Stoich
+385,D,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst3
+,qtr,  W1
+,ques-code,  ML-526
+386,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst3
+,qtr,  W19
+,ques-code,  ML-363
+,topic,  Reaction Mechanisms
+387,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-246
+,topic,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity
+388,E,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-551
+,topic,  First-order; Half-life; Integrated Rate Law
+389,B,
+,0 ISSUES,  THIS QUESTION HAD A FORMATTING PROBLEM THAT MADE NO3- APPEAR AS NO- IN THE LIST THE THAT THE BLOOMERS HAD. IS THE BLOOM RATING STILL VALID?
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-273
+,topic,  Lewis Structures; Resonance Structures
+390,D,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-543
+,topic,  Formal Charge; Lewis Structures
+391,A,
+,Z-7e-Chapter,  15
+,activate-exam,  3
+,bloom-rating,  2
+,instructor,  inst4
+,qtr,  A18
+,ques-code,  ML-019
+,topic,  Integrated Rate Law; Zero-order
+392,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-210
+,topic,  Lewis Structures; VSEPR; Valence-shell
+393,A,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-120
+,topic,  Method of Initial Rates
+394,A,
+,Z-7e-Chapter,  13
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-133
+,topic,  Lewis Structures; VSEPR
+395,D,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-601
+,topic,  Balance Chemical Rxn; Limiting Reactant; Redox Rxn; Solution Stoichiometry
+396,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-539
+397,A,
+,Z-7e-Chapter,  5
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-292
+,topic,  PV = nRT; STP
+398,C,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  3
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-398
+399,B,
+,Z-7e-Chapter,  4
+,activate-exam,  2
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A17
+,ques-code,  ML-567
+,topic,  Balance Chemical Rxn; Redox Rxn
+400,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-401
+,topic,  Method of Initial Rates
+401,B,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  5
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-021
+,topic,  Reaction Mechanisms; Steady-State Approx
+402,C,
+,Z-7e-Chapter,  02
+,activate-exam,  1
+,bloom-rating,  1
+,instructor,  inst3
+,qtr,  W18
+,ques-code,  ML-349
+403,B,
+,Z-7e-Chapter,  12
+,activate-exam,  1
+,bloom-rating,  2
+,instructor,  inst1
+,qtr,  A16
+,ques-code,  ML-291
+404,C,
+,Z-7e-Chapter,  15
+,activate-exam,  Final
+,bloom-rating,  3
+,instructor,  inst2
+,qtr,  A18
+,ques-code,  ML-130
+,topic,  Rate Expression
