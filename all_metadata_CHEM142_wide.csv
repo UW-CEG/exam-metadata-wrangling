@@ -1,0 +1,405 @@
+question,answer,Z-7e-Chapter,activate-exam,bloom-rating,instructor,qtr,ques-code,topic,0 ISSUES
+1,C,  13,  1,  3,  inst1,  A18,  ML-083,  Formal Charge; Lewis Structures,NA
+2,E,  4,  2,  3,  inst3,  W19,  ML-387,  Oxidation State; Redox Rxn,NA
+3,C,  4,  2,  2,  inst1,  A16,  ML-211,  Diagram; Limiting Reactant; Precipitation Rxn; Solubility Rules,NA
+4,E,  3,  2,  3,  inst1,  A18,  ML-056,  Empirical Formula; Molecular Formula,NA
+5,B,  15,  2,  3,  inst1,  A17,  ML-152,  Balance Chemical Rxn; Concentration vs. Time; Diagram,NA
+6,E,  12,  1,  2,  inst1,  A16,  ML-181,NA,NA
+7,C,  15,  Final,  5,  inst3,  W18,  ML-331,  Method of Initial Rates,NA
+8,D,  3,  2,  3,  inst1,  A17,  ML-275,  Macro to micro,NA
+9,B,  3,  2,  3+,  inst1,  A17,  ML-020,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn,NA
+10,E,  15,  2,  3,  inst1,  A17,  ML-155,  Rate Expression,NA
+11,C,  3,  2,  3+,  inst3,  W18,  ML-537,  Percent Yield; Products to Reactants; Stoichiometry,NA
+12,D,  13,  1,  2,  inst1,  A17,  ML-289,  Lewis Structures; Resonance Structures,NA
+13,C,  12,  1,  3+,  inst1,  A18,  ML-121,NA,NA
+14,A,  4,  2,  3,  inst1,  A17,  ML-128,  Precipitation Rxn; Solubility Rules; Total Ionic Equation,NA
+15,C,  5,  Final,  3,  inst2,  A18,  ML-187,  Gas Stoich,NA
+16,A,  4,  2,  3,  inst1,  A18,  ML-202,  Neutralization; Solution Stoichiometry; acid-Base Rxn,NA
+17,D,  12,  1,  1,  inst1,  A16,  ML-214,NA,NA
+18,C,  15,  Final,  4,  inst4,  A18,  ML-171,  Initial Slow Step; Reaction Mechanisms,NA
+19,B,  12,  1,  2,  inst2,  A18,  ML-265,NA,NA
+20,B,  12,  1,  3,  inst1,  A17,  ML-318,NA,NA
+21,D,  15,  Final,  5,  inst2,  A18,  ML-179,  Reaction Mechanisms,NA
+22,B,  3,  2,  3,  inst1,  A16,  ML-138,  Macro to micro,NA
+23,A,  3,  2,  3,  inst1,  A17,  ML-258,  Empirical Formula; Molecular Formula,NA
+24,A,  3,  2,  3,  inst3,  W19,  ML-366,  Empirical Formula; Molecular Formula; Percent Composition,NA
+25,E,  13,  1,  2,  inst1,  A17,  ML-027,  Lewis Structures; VSEPR,NA
+26,B,  12,  1,  1,  inst4,  A18,  ML-057,NA,NA
+27,E,  5,  Final,  3+,  inst2,  A18,  ML-256,  Mole Fraction; Partial Pressure,NA
+28,A,  4,  2,  3,  inst2,  A17,  ML-584,  Net Ionic Equation; Precipitation Rxn; Solubility Rules,NA
+29,A,  4,  2,  3,  inst3,  W19,  ML-346,  Neutralization; Solution Stoichiometry; acid-Base Rxn,NA
+30,B,  5,  Final,  3+,  inst1,  A16; A17; A18; A19,  ML-002,  KMT; urms,NA
+31,C,  12,  1,  1,  inst1,  A17,  ML-069,NA,NA
+32,A,  4,  2,  3,  inst2,  A18,  ML-312,  Limiting Reactant; Solution Stoichiometry; acid-Base Rxn,NA
+33,C,  4,  2,  3,  inst1,  A18,  ML-070,  Macro to micro; Precipitation Rxn; Solution Stoichiometry,NA
+34,A,  13,  1,  2,  inst2,  A18,  ML-310,  Lewis Structures; VSEPR,NA
+35,D,  15,  Final,  2,  inst3,  W18,  ML-531,  Method of Initial Rates; Reaction Mechanisms,NA
+36,D,  4,  2,  3+,  inst1,  A17,  ML-302,  Limiting Reactant; Redox Rxn; Solution Stoichiometry,NA
+37,A,  12,  1,  2,  inst3,  W19,  ML-326,NA,NA
+38,D,  15,  Final,  2,  inst2,  A17,  ML-628,  Differential Rate Law,NA
+39,A,  5,  Final,  3+,  inst3,  W18,  ML-353,  PV = nRT,NA
+40,B,  15,  Final,  2,  inst3,  W19,  ML-482,  Rate constant units,NA
+41,E,  12,  1,  2,  inst2,  A17,  ML-603,NA,NA
+42,B,  5,  2,  3+,  inst2,  A17,  ML-575,  Gas Stoich; Partial Pressure,NA
+43,A,  13,  1,  2,  inst2,  A17,  ML-562,  Lewis Structures; VSEPR,NA
+44,C,  15,  2,  3,  inst1,  A16,  ML-106,  Rate Expression,NA
+45,B,  3,  2,  3,  inst1,  A17,  ML-034,  Empirical Formula; Percent Composition,NA
+46,A,  12,  1,  1,  inst2,  A18,  ML-164,  electron configuration,NA
+47,C,  15,  2,  3,  inst1,  A18,  ML-163,  Integrated Rate Law; Second-order,NA
+48,E,  15,  Final,  3+,  inst2,  A18,  ML-050,  First-order; Integrated Rate Law; Pseudo-order,NA
+49,A,  12,  1,  3,  inst3,  W18,  ML-337,NA,NA
+50,D,  4,  2,  2,  inst3,  W18,  ML-471,  Solubility Rules,NA
+51,E,  15,  Final,  3,  inst2,  A17,  ML-613,  Rate Expression,NA
+52,B,  12,  1,  3,  inst1,  A18,  ML-072,NA,NA
+53,C,  12,  1,  3,  inst3,  W19; updated A19,  ML-356,  atomic spectra,NA
+54,D,  12,  1,  1,  inst2,  A17,  ML-572,NA,NA
+55,A,  13,  1,  1,  inst2,  A18,  ML-279,  Electronegativity; Periodic Trends,NA
+56,C,  13,  1,  3,  inst2,  A18,  ML-038,  Formal Charge; Lewis Structures,NA
+57,E,  12,  1,  2,  inst3,  W18,  ML-485,NA,NA
+58,E,  5,  Final,  1,  inst3,  W19,  ML-429,  Boyle's Law,NA
+59,B,  12,  1,  2,  inst1,  A18,  ML-212,NA,NA
+60,C,  15,  Final,  2,  inst3,  W19,  ML-416,  Rate Expression,NA
+61,C,  12,  1,  2,  inst2,  A18,  ML-006,NA,NA
+62,C,  13,  1,  2,  inst1,  A16,  ML-059,  Lewis Structures; Resonance Structures,NA
+63,E,  3,  2,  3,  inst2,  A17,  ML-595,  Empirical Formula; Percent Composition,NA
+64,B,  3,  2,  3,  inst3,  W18,  ML-431,  Limiting Reactant; Mass to moles to mass; Stoichiometry,NA
+65,A,  5,  3,  3+,  inst4,  A18,  ML-062,  PV = nRT,NA
+66,B,  13,  1,  2,  inst1,  A17,  ML-131,  Formal Charge; Lewis Structures,NA
+67,C,  5,  Final,  3+,  inst4,  A18,  ML-186,  Gas Density,NA
+68,A,  4,  2,  3,  inst3,  W18,  ML-361,  Balance Chemical Rxn; Redox Rxn,NA
+69,B,  3,  2,  3,  inst1,  A17,  ML-042,  Average Atomic Mass; Isotopic Abandance,NA
+70,A,  15,  Final,  1,  inst2,  A17,  ML-462,  Intermediate\; Reaction Mechanisms,NA
+71,D,  3,  2,  2,  inst4,  A18,  ML-249,  Balance Chemical Rxn; Diagram,NA
+72,E,  4,  2,  3,  inst2,  A17,  ML-629,  Molar Mass; Molarity,NA
+73,C,  4,  2,  3,  inst2,  A18,  ML-052,  Balance Chemical Rxn; Redox Rxn,NA
+74,A,  12,  1,  3,  inst2,  A17,  ML-577,NA,NA
+75,B,  12,  1,  1,  inst1,  A17,  ML-086,NA,NA
+76,B,  13,  1,  2,  inst1,  A18,  ML-001,  Lewis Structures; VSEPR,NA
+77,A,  12,  1,  1,  inst1,  A18,  ML-015,NA,NA
+78,E,  13,  1,  3,  inst3,  W19,  ML-367,  Formal Charge; Lewis Structures,NA
+79,B,  15,  Final,  4,  inst1,  A16; A17; A18; A19,  ML-173,  Initial Equil Step; Reaction Mechanisms,NA
+80,C,  12,  1,  2,  inst3,  W19,  ML-509,NA,NA
+81,A,  3,  2,  3,  inst1,  A18,  ML-049,  Combustion Analysis; Empirical Formula,NA
+82,B,  13,  1,  1,  inst2,  A18,  ML-011,  Inorganic Nomenclature; Transition metal cation,NA
+83,D,  15,  Final,  4,  inst2,  A18,  ML-316,  Integrated Rate Law; Zero-order,NA
+84,C,  4,  2,  3,  inst4,  A18,  ML-199,  Balance Chemical Rxn; Redox Rxn,NA
+85,E,  12,  1,  2,  inst2,  A17,  ML-548,NA,NA
+86,E,  5,  2,  3,  inst2,  A18,  ML-154,  PV = nRT,NA
+87,D,  02,  1,  1,  inst4,  A18,  ML-303,NA,NA
+88,D,  13,  1,  2,  inst3,  W18,  ML-389,  Bond Angles; VSEPR,NA
+89,A,  3,  2,  3,  inst1,  A16,  ML-177,  Combustion Analysis; Conceptual; Stoichiometry,NA
+90,B,  4,  2,  3+,  inst3,  W19,  ML-325,  Products to Reactants; Solution Stoichiometry,  WHY DOES THIS QUESTION HAVE 3+ BLOOM RATING?
+91,B,  12,  1,  3,  inst3,  W19,  ML-397,NA,NA
+92,C,  5,  Final,  3,  inst1,  A16; A17; A18; A19,  ML-087,  Avogadro's Law,NA
+93,B,  13,  1,  2,  inst2,  A18,  ML-079,  Lewis Structures; Molecular Polarity; VSEPR,NA
+94,E,  13,  1,  3,  inst2,  A17,  ML-568,  Formal Charge; Lewis Structures,NA
+95,A,  3,  2,  3,  inst2,  A18,  ML-281,  Percent Composition,NA
+96,A,  4,  2,  3,  inst3,  W18,  ML-508,  Neutralization; Solution Stoichiometry; acid-Base Rxn,NA
+97,B,  12,  1,  2,  inst4,  A18,  ML-134,NA,NA
+98,A,  13,  1,  2,  inst1,  A18,  ML-198,  Lewis Structures,NA
+99,B,  5,  Final,  3,  inst2,  A17,  ML-600,  Charles's Law,NA
+100,C,  12,  1,  2,  inst1,  A17,  ML-036,NA,NA
+101,E,  5,  2,  3,  inst2,  A17,  ML-594,  Avogadro's Law,NA
+102,D,  12,  1,  2,  inst1,  A17,  ML-161,NA,NA
+103,B,  4,  2,  3+,  inst1,  A17,  ML-294,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,NA
+104,D,  15,  Final,  3,  inst4,  A18,  ML-194,  Collision Thy; activation E,NA
+105,C,  15,  2,  3,  inst1,  A17,  ML-304,  Integrated Rate Law; Second-order,NA
+106,A,  15,  Final,  3+,  inst2,  A17,  ML-552,  Collision Thy; activation E,NA
+107,A,  13,  1,  2,  inst1,  A18,  ML-235,  Molecular Polarity; VSEPR; Valence-shell,NA
+108,B,  4,  2,  3+,  inst1,  A16,  ML-097,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,NA
+109,B,  15,  Final,  5,  inst1,  All,  ML-285,  Reaction Mechanisms,NA
+110,A,  4,  2,  2,  inst2,  A18,  ML-129,  Rxn Classes,NA
+111,E,  12,  1,  1,  inst1,  A16,  ML-201,NA,NA
+112,C,  3,  2,  2,  inst1,  A16,  ML-080,  Diagram; Limiting Reactant; Stoichiometry,NA
+113,C,  5,  Final,  3,  inst3,  W19,  ML-341,  Mole Fraction; Partial Pressure,NA
+114,A,  13,  1,  2,  inst3,  W19,  ML-388,  Lewis Structures; Valence-shell,NA
+115,B,  12,  1,  1,  inst1,  A18,  ML-243,NA,NA
+116,A,  12,  1,  1,  inst3,  W19,  ML-327,NA,NA
+117,C,  13,  1,  2,  inst2,  A17,  ML-588,  Bond Polarity,NA
+118,D,  15,  3,  3,  inst4,  A18,  ML-148,  Diagram; Integrated Rate Law; Zero-order ??,NA
+119,D,  3,  2,  3,  inst3,  W18,  ML-413,  Empirical Formula; Molecular Formula; Percent Composition,NA
+120,B,  15,  Final,  5,  inst2,  A18,  ML-113,  Initial Slow Step; Reaction Mechanisms,NA
+121,B,  13,  1,  2,  inst3,  W18,  ML-381,  VSEPR,NA
+122,D,  13,  1,  2,  inst3,  W19,  ML-344,  Lewis Structures,NA
+123,D,  3,  2,  3,  inst1,  A16,  ML-047,  Moles to moles; Stoichiometry,NA
+124,E,  15,  Final,  3,  inst2,  A18,  ML-230,  Collision Thy; activation E,NA
+125,B,  15,  2,  5,  inst1,  A17,  ML-216,  Method of Initial Rates,NA
+126,E,  12,  1,  1,  inst1,  A18,  ML-267,NA,NA
+127,B,  13,  1,  2,  inst1,  A18,  ML-068,  Lewis Structures; Resonance Structures,NA
+128,B,  4,  2,  3,  inst3,  W19,  ML-423,  Dilution (backwards); Molarity,NA
+129,C,  12,  1,  2,  inst2,  A17,  ML-585,NA,NA
+130,A,  12,  1,  3,  inst1,  A16,  ML-053,NA,NA
+131,B,  4,  2,  3,  inst3,  W19,  ML-369,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry,NA
+132,A,  4,  2,  2,  inst4,  A18,  ML-206,  Redox Rxn; Reducing/Oxidizing Agent,NA
+133,B,  15,  Final,  3,  inst4,  A18,  ML-271,  First-order; Integrated Rate Law,NA
+134,E,  13,  1,  1,  inst4,  A18,  ML-172,  Inorganic Nomenclature; acid Nomenclature,NA
+135,A,  3,  2,  3,  inst3,  W18,  ML-392,  Balance Chemical Rxn,NA
+136,B,  15,  Final,  5,  inst2,  A18,  ML-110,  Initial Equil Step; Reaction Mechanisms,NA
+137,B,  3,  2,  3,  inst1,  A18,  ML-165,  Macro to micro,NA
+138,A,  3,  2,  3,  inst1,  A16,  ML-297,  Average Atomic Mass; Isotopic Abandance; atomic Mass,NA
+139,A,  15,  Final,  5,  inst2,  A17,  ML-614,  Initial Equil Step; Reaction Mechanisms,NA
+140,D,  3,  2,  3+,  inst2,  A17,  ML-563,  Limiting Reactant; Mass to moles to mass; Stoichiometry; Unbalanced Rxn,NA
+141,A,  12,  1,  1,  inst3,  W18,  ML-332,NA,NA
+142,B,  5,  Final,  3,  inst4,  A18,  ML-071,  Partial Pressure,NA
+143,B,  12,  1,  1,  inst1,  A16,  ML-063,NA,NA
+144,B,  5,  Final,  3,  inst1,  A16; A17; A18; A19,  ML-093,  Gas Pressure Measurment; Manometer,NA
+145,E,  5,  Final,  1,  inst1,  A16; A17; A18; A19,  ML-157,  Boyle's Law,NA
+146,A,  15,  Final,  1,  inst4,  A18,  ML-225,  Integrated Rate Law,NA
+147,D,  3,  2,  3,  inst2,  A18,  ML-251,  Macro to micro,NA
+148,B,  5,  Final,  3,  inst3,  W19,  ML-534,  KMT; urms,NA
+149,B,  12,  1,  2,  inst2,  A17,  ML-620,NA,NA
+150,E,  3,  2,  2,  inst2,  A17,  ML-581,  Balance Chemical Rxn,NA
+151,E,  12,  1,  2,  inst1,  A17,  ML-103,NA,NA
+152,D,  3,  2,  3,  inst3,  W19,  ML-376,  Molar Mass,NA
+153,E,  12,  1,  1,  inst3,  W18,  ML-330,NA,NA
+154,A,  13,  1,  2,  inst1,  A18,  ML-117,  Lewis Structures; Valence-shell,NA
+155,B,  15,  Final,  3,  inst2,  A17,  ML-492,  Initial Slow Step; Rate Expression; Reaction Mechanisms,NA
+156,B,  5,  Final,  3,  inst1,  A16; A17; A18; A19,  ML-095,  PV = nRT,NA
+157,E,  5,  2,  3,  inst2,  A17,  ML-541,  Moles vs Pressure; PV = nRT,NA
+158,D,  12,  1,  2,  inst1,  A16,  ML-190,NA,NA
+159,B,  12,  1,  1,  inst1,  A16,  ML-156,NA,NA
+160,B,  13,  1,  2,  inst2,  A17,  ML-606,  Ionic Bonding; atomic structrue,NA
+161,E,  13,  1,  1,  inst2,  A18,  ML-222,  Lewis Structures; Valence-shell,NA
+162,A,  5,  Final,  3+,  inst2,  A18,  ML-142,  Gas Stoich; Partial Pressure,NA
+163,D,  15,  2,  3,  inst1,  A16,  ML-098,  First-order; Integrated Rate Law,NA
+164,D,  12,  1,  2,  inst3,  W19,  ML-516,NA,NA
+165,C,  12,  1,  2,  inst1,  A18,  ML-178,NA,NA
+166,B,  12,  1,  1,  inst3,  W18,  ML-393,NA,NA
+167,D,  4,  2,  3+,  inst2,  A18,  ML-307,  Demo Ques; Limiting Reactant,NA
+168,D,  13,  1,  2,  inst4,  A18,  ML-301,  Bond Length,NA
+169,E,  3,  2,  3,  inst2,  A18,  ML-245,  Moles to moles; Stoichiometry,NA
+170,C,  4,  2,  3,  inst1,  A18,  ML-054,  Balance Chemical Rxn; Redox Rxn,NA
+171,C,  02,  1,  1,  inst2,  A17,  ML-561,NA,NA
+172,D,  15,  Final,  2,  inst3,  W18,  ML-378,  Pseudo-order,NA
+173,C,  3,  2,  3,  inst4,  A18,  ML-141,  Empirical Formula; Molecular Formula; Percent Composition,NA
+174,D,  4,  2,  3,  inst2,  A17,  ML-630,  Inorganic Nomenclature; Moles to moles; Reactant to Reactant; Stoichiometry,NA
+175,E,  12,  1,  2,  inst1,  A18,  ML-266,NA,NA
+176,D,  12,  1,  2,  inst2,  A18,  ML-283,NA,NA
+177,B,  13,  1,  2,  inst4,  A18,  ML-088,  Ionic Bonding; Lattice Energy,NA
+178,E,  3,  2,  3,  inst1,  A16,  ML-219,  Mass to moles to mass; Stoichiometry,NA
+179,B,  13,  1,  4,  inst3,  W19,  ML-347,  Bond Polarity,NA
+180,C,  12,  1,  2,  inst1,  A17,  ML-125,NA,NA
+181,C,  13,  1,  1,  inst2,  A17,  ML-569,  Inorganic Nomenclature,NA
+182,C,  3,  2,  3,  inst1,  A17,  ML-039,  Moles to moles; Stoichiometry,NA
+183,C,  12,  1,  3,  inst2,  A17,  ML-586,NA,NA
+184,C,  13,  1,  2,  inst2,  A18,  ML-220,  Lewis Structures; Molecular Polarity; VSEPR,NA
+185,D,  13,  1,  1,  inst4,  A18,  ML-101,  Ionic Bonding,NA
+186,B,  4,  2,  2,  inst2,  A17,  ML-545,  Oxidation State,NA
+187,A,  5,  3,  2,  inst4,  A18,  ML-018,  Boltzmann Dist; KMT; urms,NA
+188,C,  12,  1,  2,  inst4,  A18,  ML-169,NA,NA
+189,E,  13,  1,  4,  inst3,  W18,  ML-365,  Bond Polarity,NA
+190,B,  15,  Final,  4,  inst2,  A17,  ML-598,  Integrated Rate Law; Second-order,NA
+191,C,  4,  2,  3,  inst1,  A16,  ML-028,  Interpret Chemical Formula; Macro to micro,NA
+192,C,  12,  1,  1,  inst1,  A16,  ML-308,NA,NA
+193,B,  13,  1,  3,  inst1,  A16,  ML-300,  Formal Charge; Lewis Structures,NA
+194,A,  3,  2,  3,  inst2,  A18,  ML-254,  Moles to moles; Stoichiometry,  NO CHEMICAL EQUATION INCLUDED...WAS THIS THE CASE WHEN THE BLOOMERS CODED THIS QUESTION?
+195,D,  15,  Final,  5,  inst2,  A18,  ML-064,  Method of Initial Rates,NA
+196,D,  13,  1,  2,  inst2,  A17,  ML-555,  Lewis Structures,NA
+197,D,  13,  1,  1,  inst2,  A18,  ML-182,  Inorganic Nomenclature,NA
+198,A,  12,  1,  3+,  inst1,  A17,  ML-228,NA,NA
+199,A,  12,  1,  2,  inst3,  W18,  ML-465,NA,NA
+200,A,  4,  2,  3,  inst2,  A18,  ML-067,  Solution Stoichiometry; acid-Base Rxn,NA
+201,A,  12,  1,  1,  inst2,  A18,  ML-215,NA,NA
+202,B,  15,  Final,  3,  inst3,  W19,  ML-439,  Initial Equil Step; Reaction Mechanisms,NA
+203,E,  15,  2,  3,  inst1,  A18,  ML-224,  Rate Expression,NA
+204,B,  5,  3,  1,  inst4,  A18,  ML-153,  KMT,NA
+205,A,  12,  1,  3,  inst2,  A18,  ML-102,NA,NA
+206,C,  15,  Final,  3+,  inst2,  A17,  ML-622,  Half-life; Second-order,NA
+207,E,  12,  1,  3,  inst4,  A18,  ML-263,NA,NA
+208,E,  12,  1,  1,  inst1,  A17,  ML-115,NA,NA
+209,B,  5,  2,  3+,  inst2,  A18,  ML-109,  Gas Stoich,NA
+210,C,  3,  2,  3+,  inst1,  A18,  ML-299,  Limiting Reactant; Moles to moles; Stoichiometry; Unbalanced Rxn,NA
+211,C,  3,  2,  3,  inst1,  A17,  ML-185,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry,NA
+212,C,  13,  1,  2,  inst2,  A17,  ML-602,  Lewis Structures; Molecular Polarity; VSEPR,NA
+213,E,  4,  2,  3,  inst3,  W19,  ML-520,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,NA
+214,C,  15,  Final,  5,  inst3,  W19,  ML-386,  Method of Initial Rates,NA
+215,E,  12,  1,  2,  inst1,  A18,  ML-193,NA,NA
+216,C,  5,  Final,  3+,  inst1,  All,  ML-221,  Gas Stoich; Partial Pressure,NA
+217,C,  13,  1,  3,  inst1,  A17,  ML-272,  Formal Charge; Lewis Structures,NA
+218,B,  5,  2,  2,  inst2,  A18,  ML-287,  Gas Density,NA
+219,D,  5,  Final,  3+,  inst4,  A18,  ML-037,  Gas Density; PV = nRT; Partial Pressure,NA
+220,A,  12,  1,  2,  inst1,  A16,  ML-250,NA,NA
+221,A,  4,  2,  3,  inst1,  A18,  ML-055,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,NA
+222,E,  13,  1,  3,  inst3,  W18,  ML-351,  Formal Charge; Lewis Structures,NA
+223,C,  12,  1,  2,  inst1,  A16,  ML-058,NA,NA
+224,A,  15,  Final,  3,  inst3,  W18,  ML-470,  Rate Expression,NA
+225,E,  15,  Final,  3,  inst2,  A17,  ML-573,  First-order; Integrated Rate Law,NA
+226,A,  3,  2,  3+,  inst2,  A17,  ML-560,  Mass to moles to mass; Percent Yield; Stoichiometry,NA
+227,C,  15,  Final,  2,  inst3,  W18,  ML-329,  Collision Thy; activation E,NA
+228,A,  12,  1,  3,  inst4,  A18,  ML-051,NA,NA
+229,A,  15,  Final,  4,  inst2,  A18,  ML-045,  Half-life; Integrated Rate Law; Second-order,NA
+230,C,  4,  2,  3,  inst2,  A17,  ML-610,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,NA
+231,B,  3,  2,  3+,  inst1,  A18,  ML-203,  Limiting Reactant; Mass to moles to mass; Products to Reactants; Stoichiometry,NA
+232,E,  4,  2,  3,  inst1,  A16,  ML-145,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,NA
+233,B,  15,  Final,  1,  inst2,  A17,  ML-447,  Third-Order,NA
+234,A,  15,  Final,  3,  inst4,  A18,  ML-317,  Method of Initial Rates,NA
+235,A,  3,  2,  3,  inst2,  A17,  ML-583,  Percent Composition,NA
+236,C,  3,  2,  3,  inst3,  W18,  ML-348,  Empirical Formula; Macro to micro,NA
+237,D,  12,  1,  1,  inst2,  A18,  ML-033,NA,NA
+238,C,  5,  2,  3,  inst2,  A18,  ML-074,  Avogadro's Law,NA
+239,E,  15,  Final,  5,  inst2,  A17,  ML-618,  Method of Initial Rates,NA
+240,E,  12,  1,  1,  inst3,  W19,  ML-350,  orbitals,NA
+241,A,  12,  1,  1,  inst3,  W19,  ML-374,  orbitals,NA
+242,D,  4,  2,  2,  inst3,  W19,  ML-340,  Net Ionic Equation; acid-Base Rxn,NA
+243,E,  4,  2,  2,  inst3,  W18,  ML-390,  Oxidation State; Redox Rxn,NA
+244,D,  3,  2,  3+,  inst4,  A18,  ML-073,  Limiting Reactant; Moles to mass; Percent Yield; Stoichiometry,NA
+245,A,  13,  1,  2,  inst1,  A16,  ML-090,  Ionic Bonding; atomic structrue,NA
+246,C,  4,  2,  3,  inst1,  A17,  ML-195,  Solution Stoichiometry; acid-Base Rxn,NA
+247,C,  3,  2,  3,  inst3,  W19,  ML-527,  Macro to micro,NA
+248,A,  4,  2,  3,  inst2,  A17,  ML-553,  Dilution,NA
+249,A,  15,  Final,  3,  inst3,  W19,  ML-385,  Integrated Rate Law; Sec',NA
+250,D,  3,  2,  3,  inst2,  A17,  ML-587,  Empirical Formula; Percent Composition,NA
+251,C,  13,  1,  2,  inst3,  W19,  ML-382,  Bond Angles; VSEPR,NA
+252,D,  12,  1,  2,  inst3,  W19,  ML-422,NA,NA
+253,B,  13,  1,  2,  inst3,  W18,  ML-525,  Molecular Polarity; VSEPR,NA
+254,A,  12,  1,  3,  inst1,  A16,  ML-105,NA,NA
+255,E,  15,  Final,  2,  inst2,  A17,  ML-608,  Integrated Rate Law; Zero-order,NA
+256,E,  4,  2,  3,  inst1,  A16,  ML-048,  Balance Chemical Rxn; Redox Rxn,NA
+257,C,  12,  1,  2,  inst1,  A17,  ML-233,NA,NA
+258,E,  3,  2,  2,  inst3,  W19,  ML-360,  Balance Chemical Rxn,NA
+259,C,  12,  1,  3,  inst3,  W19,  ML-355,NA,NA
+260,A,  4,  2,  2,  inst1,  A18,  ML-075,  Precipitation Rxn; Solubility Rules,NA
+261,E,  3,  2,  3+,  inst1,  A16,  ML-065,  Limiting Reactant; Moles to moles; Stoichiometry,NA
+262,B,  12,  1,  1,  inst3,  W18,  ML-504,NA,NA
+263,C,  12,  1,  3+,  inst1,  A18,  ML-166,NA,NA
+264,A,  12,  1,  2,  inst1,  A18,  ML-126,NA,NA
+265,A,  4,  2,  3,  inst3,  W19,  ML-493,  Balance Chemical Rxn; Redox Rxn,NA
+266,B,  5,  Final,  3+,  inst4,  A18,  ML-008,  Gas Stoich,NA
+267,B,  15,  Final,  3,  inst2,  A18,  ML-296,  Integrated Rate Law; Zero-order,NA
+268,D,  13,  1,  2,  inst1,  A17,  ML-295,  Bond Polarity,NA
+269,A,  3,  2,  2,  inst2,  A17,  ML-544,  Molar Mass,NA
+270,B,  3,  2,  2,  inst3,  W19,  ML-334,  Limiting Reactant; Moles to moles; Stoichiometry,NA
+271,C,  3,  2,  3,  inst2,  A17,  ML-578,  Macro to micro,NA
+272,A,  12,  1,  2,  inst1,  A18,  ML-136,NA,NA
+273,D,  4,  2,  3,  inst2,  A17,  ML-623,  Neutralization; Solution Stoichiometry; acid-Base Rxn,NA
+274,E,  3,  2,  2,  inst2,  A18,  ML-261,  Conceptual; Limiting Reactant; Stoichiometry,NA
+275,C,  3,  2,  3,  inst3,  W19,  ML-339,  Macro to micro,NA
+276,E,  15,  Final,  3,  inst2,  A18,  ML-236,  First-order; Integrated Rate Law,NA
+277,E,  4,  2,  3,  inst3,  W18,  ML-368,  Balance Chemical Rxn; Redox Rxn,NA
+278,C,  4,  2,  2,  inst3,  W19,  ML-322,  Net Ionic Equation; Weak Acid; acid-Base Rxn,NA
+279,B,  5,  Final,  3,  inst3,  W19,  ML-375,  Gas Pressure Measurment; Manometer,NA
+280,D,  5,  2,  3,  inst2,  A17,  ML-547,  PV = nRT,NA
+281,D,  15,  Final,  3,  inst2,  A18,  ML-209,  Collision Thy; activation E,NA
+282,B,  4,  2,  3,  inst1,  A17,  ML-259,  Balance Chemical Rxn; Redox Rxn,NA
+283,C,  12,  1,  2,  inst3,  W18,  ML-522,NA,NA
+284,D,  13,  1,  2,  inst3,  W19,  ML-406,  Molecular Polarity; VSEPR,NA
+285,B,  5,  Final,  3,  inst3,  W19,  ML-450,  PV = nRT,NA
+286,E,  3,  2,  2,  inst2,  A18,  ML-231,  Balance Chemical Rxn,NA
+287,D,  5,  3,  3+,  inst4,  A18,  ML-180,  Gas Stoich,NA
+288,E,  12,  1,  3,  inst2,  A17,  ML-626,NA,NA
+289,D,  15,  2,  3,  inst1,  A16,  ML-200,  Balance Chemical Rxn; Concentration vs. Time; Diagram,NA
+290,C,  12,  1,  2,  inst1,  A18,  ML-135,NA,NA
+291,C,  15,  Final,  3+,  inst2,  A17,  ML-498,  First-order; Integrated Rate Law; PV = nRT,NA
+292,D,  5,  Final,  3,  inst4,  A18,  ML-108,  Gas Stoich; Partial Pressure,NA
+293,A,  5,  Final,  3+,  inst2,  A18,  ML-253,  Gas Stoich,NA
+294,E,  15,  2,  5,  inst1,  A18,  ML-170,  Method of Initial Rates,NA
+295,C,  4,  2,  3,  inst3,  W19,  ML-319,  Balance Chemical Rxn; Redox Rxn,NA
+296,A,  3,  2,  2,  inst1,  A17,  ML-218,  Diagram; Limiting Reactant; Stoichiometry,NA
+297,C,  13,  1,  3,  inst3,  W18,  ML-530,  Formal Charge; Lewis Structures,  NEED TO UPDATE FIGURES 
+298,C,  3,  2,  2,  inst3,  W19,  ML-383,  Average Atomic Mass; Isotopic Abandance,NA
+299,C,  12,  1,  3,  inst1,  A18,  ML-314,NA,NA
+300,D,  15,  Final,  5,  inst2,  A17,  ML-558,  Method of Initial Rates,NA
+301,E,  12,  1,  3,  inst3,  W19,  ML-532,NA,NA
+302,B,  13,  1,  4,  inst1,  A16,  ML-029,  Bond Polarity,NA
+303,D,  5,  Final,  2,  inst2,  A17,  ML-624,  Gas Density,NA
+304,E,  12,  1,  1,  inst1,  A17,  ML-257,NA,NA
+305,A,  4,  2,  3,  inst1,  A17,  ML-255,  Dilution,NA
+306,D,  3,  2,  3,  inst1,  A18,  ML-082,  Micro to macro; atomic Mass,NA
+307,B,  3,  2,  3,  inst1,  A16,  ML-189,  Empirical Formula,NA
+308,B,  12,  1,  1,  inst1,  A17,  ML-213,NA,NA
+309,B,  5,  Final,  3,  inst4,  A18,  ML-311,  Effusion,NA
+310,E,  15,  Final,  3,  inst2,  A18,  ML-192,  Integrated Rate Law; Second-order,NA
+311,B,  5,  Final,  3+,  inst2,  A18,  ML-124,  PV = nRT,NA
+312,B,  5,  Final,  3,  inst2,  A17,  ML-549,  Mole Fraction; Partial Pressure,NA
+313,D,  12,  1,  1,  inst2,  A18,  ML-223,NA,NA
+314,B,  4,  2,  3+,  inst4,  A18,  ML-139,  Limiting Reactant; Precipitation Rxn; Solution Stoichiometry,NA
+315,E,  13,  1,  2,  inst2,  A17,  ML-576,  Lewis Structures; VSEPR,NA
+316,A,  4,  2,  3,  inst1,  A16,  ML-032,  Net Ionic Equation; Precipitation Rxn; Solubility Rules,NA
+317,A,  12,  1,  1,  inst1,  A18,  ML-226,NA,NA
+318,D,  12,  1,  1,  inst4,  A18,  ML-252,NA,NA
+319,C,  5,  2,  3,  inst2,  A17,  ML-582,  Avogadro's Law; Gas Stoich,NA
+320,C,  13,  1,  2,  inst1,  A17,  ML-118,  Molecular Polarity; VSEPR,NA
+321,C,  15,  Final,  2,  inst1,  A16; A17; A18; A19,  ML-150,  Rate Expression,NA
+322,B,  4,  2,  3,  inst1,  A16,  ML-229,  Molarity,NA
+323,E,  5,  Final,  3,  inst2,  A17,  ML-599,  Gas Stoich; StP,NA
+324,C,  3,  2,  2,  inst1,  A18,  ML-175,  Average Atomic Mass; Diagram; Isotopic Abandance,NA
+325,B,  5,  Final,  3,  inst3,  W18,  ML-338,  KMT; urms,NA
+326,C,  4,  2,  2,  inst1,  A18,  ML-270,  Oxidation State,NA
+327,D,  12,  1,  3,  inst3,  W18,  ML-430,NA,NA
+328,B,  5,  Final,  2,  inst1,  All,  ML-286,"  KMT; urms, mass dependence",NA
+329,E,  15,  Final,  2,  inst1,  All,  ML-196,  Integrated Rate Law; Second-order,NA
+330,B,  12,  1,  3,  inst1,  A18,  ML-234,NA,NA
+331,B,  13,  1,  3,  inst3,  W19,  ML-321,  Formal Charge; Lewis Structures,NA
+332,A,  15,  Final,  5,  inst2,  A18,  ML-099,  Method of Initial Rates,NA
+333,E,  5,  Final,  3,  inst2,  A17,  ML-591,  Charles's Law,NA
+334,A,  4,  2,  3,  inst1,  A17,  ML-081,  Interpret Chemical Formula; Molarity,NA
+335,B,  4,  2,  3,  inst4,  A18,  ML-247,  Dilution,NA
+336,A,  15,  Final,  3,  inst1,  A16; A17; A18; A19,  ML-022,  Integrated Rate Law; Second-order,NA
+337,C,  15,  Final,  2,  inst3,  W19,  ML-403,  Collision Thy; Reaction Mechanisms,NA
+338,D,  4,  2,  3+,  inst1,  A18,  ML-160,  Limiting Reactant; Precipitation Rxn; Solubility Rules; Solution Stoichiometry,NA
+339,E,  5,  Final,  3,  inst2,  A17,  ML-627,  Gas Stoich; Partial Pressure,NA
+340,D,  5,  2,  3,  inst2,  A17,  ML-579,  Charles's Law,NA
+341,A,  12,  1,  1,  inst2,  A18,  ML-024,NA,NA
+342,A,  5,  Final,  3,  inst3,  W18,  ML-490,  Partial Pressure,  There doesn't seem to be enough information provided
+343,C,  5,  Final,  3+,  inst3,  W19,  ML-364,  Gas Stoich; Partial Pressure,NA
+344,D,  12,  1,  1,  inst3,  W18,  ML-448,NA,NA
+345,A,  4,  2,  3,  inst3,  W18,  ML-357,  Macro to micro; Molarity,NA
+346,D,  5,  Final,  3,  inst3,  W18,  ML-412,  Effusion,NA
+347,C,  15,  Final,  2,  inst1,  All,  ML-188,  Collision Thy; Reaction Mechanisms,NA
+348,E,  5,  2,  2,  inst2,  A17,  ML-616,  Boyle's Law,NA
+349,A,  12,  1,  3,  inst1,  A17,  ML-298,NA,NA
+350,C,  13,  1,  1,  inst2,  A17,  ML-597,  atomic structrue,NA
+351,D,  15,  2,  5,  inst1,  A16,  ML-147,  Method of Initial Rates,  WHY DOES THIS HAVE 5 FOR BLOOM RATING?
+352,C,  12,  1,  2,  inst2,  A18,  ML-076,NA,NA
+353,D,  15,  Final,  2,  inst2,  A18,  ML-041,  Differential Rate Law,NA
+354,A,  3,  2,  3,  inst4,  A18,  ML-168,  Combustion Analysis; Empirical Formula,NA
+355,C,  12,  1,  1,  inst2,  A17,  ML-554,NA,NA
+356,C,  13,  1,  2,  inst3,  W19,  ML-452,  Bond Energy; Bond Length; Bonding; Diagram,NA
+357,D,  12,  1,  3+,  inst1,  A17,  ML-309,NA,NA
+358,B,  12,  1,  3+,  inst2,  A18,  ML-084,NA,NA
+359,E,  15,  Final,  2,  inst2,  A17,  ML-596,  Method of Initial Rates,NA
+360,D,  3,  2,  3,  inst3,  W19,  ML-379,  Moles to moles; Percent Yield; Stoichiometry,NA
+361,E,  3,  2,  2,  inst4,  A18,  ML-274,  Inorganic Nomenclature; Percent Composition,NA
+362,C,  5,  Final,  3+,  inst2,  A18,  ML-013,  Gas Stoich; Mole Fraction,NA
+363,B,  13,  1,  2,  inst1,  A17,  ML-174,  Lewis Structures,NA
+364,C,  12,  1,  2,  inst4,  A18,  ML-191,NA,NA
+365,B,  12,  1,  1,  inst3,  W18,  ML-459,NA,NA
+366,B,  4,  2,  2,  inst3,  W19,  ML-402,  Solubility Rules,NA
+367,A,  4,  2,  3,  inst2,  A18,  ML-197,  Neutralization; Solution Stoichiometry; acid-Base Rxn,NA
+368,A,  15,  Final,  2,  inst1,  All,  ML-241,  First-order; Half-life,NA
+369,B,  12,  1,  3,  inst2,  A18,  ML-262,NA,NA
+370,B,  4,  2,  2,  inst2,  A18,  ML-091,  Precipitation Rxn; Solubility Rules,NA
+371,E,  4,  2,  3,  inst1,  A17,  ML-207,  Interpret Chemical Formula; Molarity,NA
+372,D,  5,  2,  3,  inst2,  A17,  ML-559,  Gas Density,NA
+373,B,  13,  1,  2,  inst3,  W18,  ML-328,  Bond Energy; Bond Length; Bonding; Diagram,NA
+374,B,  4,  2,  3,  inst2,  A18,  ML-030,  Dilution (backwards); Molarity,NA
+375,B,  12,  1,  1,  inst3,  W19,  ML-505,NA,NA
+376,B,  13,  1,  2,  inst1,  A18,  ML-096,  Formal Charge; Lewis Structures,NA
+377,A,  3,  2,  3,  inst3,  W19,  ML-373,  Limiting Reactant; Moles to mass; Stoichiometry,NA
+378,B,  5,  2,  3,  inst2,  A18,  ML-242,  Mole Fraction; Partial Pressure,NA
+379,D,  12,  1,  2,  inst4,  A18,  ML-025,NA,NA
+380,A,  12,  1,  1,  inst2,  A18,  ML-306,NA,NA
+381,A,  15,  Final,  2,  inst3,  W19,  ML-391,  First-order; Half-life,NA
+382,C,  15,  Final,  1,  inst4,  A18,  ML-009,  Catalysts,NA
+383,C,  5,  Final,  3,  inst2,  A18,  ML-031,  Gas Density; KMT,NA
+384,A,  5,  Final,  3+,  inst3,  W18,  ML-324,  Gas Stoich,NA
+385,D,  12,  1,  2,  inst3,  W1,  ML-526,NA,NA
+386,B,  15,  Final,  5,  inst3,  W19,  ML-363,  Reaction Mechanisms,NA
+387,B,  4,  2,  3,  inst1,  A16,  ML-246,  Inorganic Nomenclature; Interpret Chemical Formula; Molarity,NA
+388,E,  15,  Final,  3,  inst2,  A17,  ML-551,  First-order; Half-life; Integrated Rate Law,NA
+389,B,  13,  1,  2,  inst2,  A18,  ML-273,  Lewis Structures; Resonance Structures,  THIS QUESTION HAD A FORMATTING PROBLEM THAT MADE NO3- APPEAR AS NO- IN THE LIST THE THAT THE BLOOMERS HAD. IS THE BLOOM RATING STILL VALID?
+390,D,  13,  1,  2,  inst2,  A17,  ML-543,  Formal Charge; Lewis Structures,NA
+391,A,  15,  3,  2,  inst4,  A18,  ML-019,  Integrated Rate Law; Zero-order,NA
+392,A,  13,  1,  2,  inst2,  A18,  ML-210,  Lewis Structures; VSEPR; Valence-shell,NA
+393,A,  15,  Final,  5,  inst2,  A18,  ML-120,  Method of Initial Rates,NA
+394,A,  13,  1,  2,  inst1,  A16,  ML-133,  Lewis Structures; VSEPR,NA
+395,D,  4,  2,  3,  inst2,  A17,  ML-601,  Balance Chemical Rxn; Limiting Reactant; Redox Rxn; Solution Stoichiometry,NA
+396,C,  12,  1,  1,  inst2,  A17,  ML-539,NA,NA
+397,A,  5,  2,  3,  inst2,  A18,  ML-292,  PV = nRT; STP,NA
+398,C,  12,  1,  3,  inst3,  W18,  ML-398,NA,NA
+399,B,  4,  2,  3,  inst2,  A17,  ML-567,  Balance Chemical Rxn; Redox Rxn,NA
+400,B,  15,  Final,  5,  inst3,  W18,  ML-401,  Method of Initial Rates,NA
+401,B,  15,  Final,  5,  inst2,  A18,  ML-021,  Reaction Mechanisms; Steady-State Approx,NA
+402,C,  02,  1,  1,  inst3,  W18,  ML-349,NA,NA
+403,B,  12,  1,  2,  inst1,  A16,  ML-291,NA,NA
+404,C,  15,  Final,  3,  inst2,  A18,  ML-130,  Rate Expression,NA
