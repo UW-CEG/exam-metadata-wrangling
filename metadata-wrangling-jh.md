@@ -15,8 +15,7 @@ metadata_0 <- read_csv("All Metadata CHEM 142 MC.csv")
 ```
 
 ```
-## Warning: Missing column names filled in: 'X3' [3], 'X4' [4], 'X5' [5], 'X6' [6],
-## 'X7' [7], 'X8' [8], 'X9' [9], 'X10' [10], 'X11' [11], 'X12' [12]
+## Warning: Missing column names filled in: 'X3' [3]
 ```
 
 ```
@@ -25,16 +24,7 @@ metadata_0 <- read_csv("All Metadata CHEM 142 MC.csv")
 ## cols(
 ##   `1` = col_double(),
 ##   C = col_character(),
-##   X3 = col_character(),
-##   X4 = col_logical(),
-##   X5 = col_logical(),
-##   X6 = col_logical(),
-##   X7 = col_logical(),
-##   X8 = col_logical(),
-##   X9 = col_logical(),
-##   X10 = col_logical(),
-##   X11 = col_logical(),
-##   X12 = col_logical()
+##   X3 = col_character()
 ## )
 ```
 
@@ -55,30 +45,35 @@ metadata_2 <- metadata_1 %>% add_row(.before = 1)
 ```r
 metadata_2[1,1] <- 1
 metadata_2[1,2] <- "C"
-metadata <- metadata_2 %>% 
+metadata_3 <- metadata_2 %>% 
   rename("X1" = "1") %>% 
   rename("X2" = "C")
 ```
 
 
 ```r
-for (i in 1:nrow(metadata)) {
-  if(str_detect(metadata[[2]][[i]], "[[:alpha:]]{1}")){
-    replace(metadata[[3]][[i]], i, "metadata[[2]][[i]]")
-    replace(metadata[[2]][[i]], i, "metadata[[1]][[i]]")}
+for (i in 1:nrow(metadata_3)) {
+  if(str_detect(metadata_3[[2]][[i]], "^[[:alpha:]]{1}$")){
+    metadata_3[[3]][[i]] <- metadata_3[[2]][[i]]
+    metadata_3[[2]][[i]] <- metadata_3[[1]][[i]]}
+}
+
+for (i in 1:nrow(metadata_3)) {
+  if(str_detect(metadata_3[[2]][[i]], "^[[:digit:]]{1,3}$")){
+    metadata_3[[2]][[i]] <- "answer"}
 }
 ```
 
 
 ```r
-tibble(metadata)
+tibble(metadata_3)
 ```
 
 ```
 ## # A tibble: 3,141 x 3
 ##       X1 X2            X3                               
 ##    <dbl> <chr>         <chr>                            
-##  1     1 C             <NA>                             
+##  1     1 answer        C                                
 ##  2    NA Z-7e-Chapter    13                             
 ##  3    NA activate-exam   1                              
 ##  4    NA bloom-rating    3                              
@@ -86,9 +81,84 @@ tibble(metadata)
 ##  6    NA qtr             A18                            
 ##  7    NA ques-code       ML-083                         
 ##  8    NA topic           Formal Charge; Lewis Structures
-##  9     2 E             <NA>                             
+##  9     2 answer        E                                
 ## 10    NA Z-7e-Chapter    4                              
 ## # ... with 3,131 more rows
 ```
 
-#### This doesn't work! I think I understand the structure of the loop and the `if` function, but I need some guidance on how to go about shifting the value of the question number and question answer over one cell. My current approach above is just attempting to change the values of the cells themselves to whatever value is to the left of that cell using `replace`. But... what I tried didn't work :/
+### Repeat question numbers down dataset
+
+
+```r
+metadata_3[[1]][[nrow(metadata_3)]] <- metadata_3[[1]][[nrow(metadata_3)-7]]
+
+for (i in 1:(nrow(metadata_3)-1)) {
+  if(str_detect(metadata_3[[1]][[i]], "^[[:digit:]]{1,3}$")){
+    current_digit <- metadata_3[[1]][[i]]
+    j <- 1
+    while (is.na(metadata_3[[1]][[i+j]])) {
+      metadata_3[[1]][[i+j]] <- current_digit
+      j <- j+1
+    }
+  }
+}
+
+tibble(metadata_3)
+```
+
+```
+## # A tibble: 3,141 x 3
+##       X1 X2            X3                               
+##    <dbl> <chr>         <chr>                            
+##  1     1 answer        C                                
+##  2     1 Z-7e-Chapter    13                             
+##  3     1 activate-exam   1                              
+##  4     1 bloom-rating    3                              
+##  5     1 instructor      inst1                          
+##  6     1 qtr             A18                            
+##  7     1 ques-code       ML-083                         
+##  8     1 topic           Formal Charge; Lewis Structures
+##  9     2 answer        E                                
+## 10     2 Z-7e-Chapter    4                              
+## # ... with 3,131 more rows
+```
+
+### Make data wide
+
+
+```r
+metadata_4 <- pivot_wider(metadata_3, names_from = X2, values_from = X3) %>% 
+  rename("question" = "X1")
+
+tibble(metadata_4)
+```
+
+```
+## # A tibble: 404 x 10
+##    question answer `Z-7e-Chapter` `activate-exam` `bloom-rating` instructor
+##       <dbl> <chr>  <chr>          <chr>           <chr>          <chr>     
+##  1        1 C        13             1               3              inst1   
+##  2        2 E        4              2               3              inst3   
+##  3        3 C        4              2               2              inst1   
+##  4        4 E        3              2               3              inst1   
+##  5        5 B        15             2               3              inst1   
+##  6        6 E        12             1               2              inst1   
+##  7        7 C        15             Final           5              inst3   
+##  8        8 D        3              2               3              inst1   
+##  9        9 B        3              2               3+             inst1   
+## 10       10 E        15             2               3              inst1   
+## # ... with 394 more rows, and 4 more variables: qtr <chr>, `ques-code` <chr>,
+## #   topic <chr>, `0 ISSUES` <chr>
+```
+
+### Save data frame to file
+
+
+```r
+# Save as rds
+write_rds(metadata_4, here("all_metadata_CHEM142_wide.rds"))
+
+# Save as csv
+write_csv(metadata_4, here("all_metadata_CHEM142_wide.csv"))
+```
+

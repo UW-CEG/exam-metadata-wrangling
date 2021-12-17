@@ -51,18 +51,20 @@ tibble(metadata_3)
 ### Repeat question numbers down dataset
 
 ```{r}
-for (i in 1:nrow(metadata_3)) {
+metadata_3[[1]][[nrow(metadata_3)]] <- metadata_3[[1]][[nrow(metadata_3)-7]]
+
+for (i in 1:(nrow(metadata_3)-1)) {
   if(str_detect(metadata_3[[1]][[i]], "^[[:digit:]]{1,3}$")){
     current_digit <- metadata_3[[1]][[i]]
     j <- 1
     while (is.na(metadata_3[[1]][[i+j]])) {
       metadata_3[[1]][[i+j]] <- current_digit
       j <- j+1
-      # cat("i = ", i, "current_digit = ", current_digit, "j = ", j, "\n")
-      # & (i <= nrow(metadata_3)-8)
     }
   }
 }
+
+tibble(metadata_3)
 ```
 
 ### Make data wide
@@ -70,7 +72,8 @@ for (i in 1:nrow(metadata_3)) {
 ```{r}
 metadata_4 <- pivot_wider(metadata_3, names_from = X2, values_from = X3) %>% 
   rename("question" = "X1")
-## Yayy!
+
+tibble(metadata_4)
 ```
 
 ### Save data frame to file
