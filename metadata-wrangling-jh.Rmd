@@ -21,6 +21,10 @@ metadata_0 <- read_csv("All Metadata CHEM 142 MC.csv")
 ```{r}
 metadata_1 <- remove_empty(metadata_0)
 metadata_2 <- metadata_1 %>% add_row(.before = 1)
+
+metadata_0
+metadata_1
+metadata_2
 ```
 
 ```{r}
@@ -28,7 +32,11 @@ metadata_2[1,1] <- 1
 metadata_2[1,2] <- "C"
 metadata_3 <- metadata_2 %>% 
   rename("X1" = "1") %>% 
-  rename("X2" = "C")
+  rename("X2" = "C") %>% 
+  rename("X3" = "...3")
+
+metadata_2
+metadata_3
 ```
 
 ```{r}
@@ -38,33 +46,38 @@ for (i in 1:nrow(metadata_3)) {
     metadata_3[[2]][[i]] <- metadata_3[[1]][[i]]}
 }
 
+metadata_3
+
 for (i in 1:nrow(metadata_3)) {
   if(str_detect(metadata_3[[2]][[i]], "^[[:digit:]]{1,3}$")){
     metadata_3[[2]][[i]] <- "answer"}
 }
-```
 
-```{r}
-tibble(metadata_3)
+metadata_3
 ```
 
 ### Repeat question numbers down dataset
 
 ```{r}
-metadata_3[[1]][[nrow(metadata_3)]] <- metadata_3[[1]][[nrow(metadata_3)-7]]
+tail(metadata_3)
 
-for (i in 1:(nrow(metadata_3)-1)) {
-  if(str_detect(metadata_3[[1]][[i]], "^[[:digit:]]{1,3}$")){
-    current_digit <- metadata_3[[1]][[i]]
+metadata_3[[1]][[nrow(metadata_3)]] <- metadata_3[[1]][[nrow(metadata_3)-7]]
+metadata_4 -> metadata_3
+
+tail(metadata_4)
+
+for (i in 1:(nrow(metadata_4)-1)) {
+  if(str_detect(metadata_4[[1]][[i]], "^[[:digit:]]{1,3}$")){
+    current_digit <- metadata_4[[1]][[i]]
     j <- 1
-    while (is.na(metadata_3[[1]][[i+j]])) {
-      metadata_3[[1]][[i+j]] <- current_digit
+    while (is.na(metadata_4[[1]][[i+j]])) {
+      metadata_4[[1]][[i+j]] <- current_digit
       j <- j+1
     }
   }
 }
 
-tibble(metadata_3)
+metadata_4
 ```
 
 ### Make data wide
@@ -73,7 +86,7 @@ tibble(metadata_3)
 metadata_4 <- pivot_wider(metadata_3, names_from = X2, values_from = X3) %>% 
   rename("question" = "X1")
 
-tibble(metadata_4)
+metadata_4
 ```
 
 ### Save data frame to file
